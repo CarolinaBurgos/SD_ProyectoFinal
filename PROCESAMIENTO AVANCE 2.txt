@@ -1,0 +1,19 @@
+
+Integrantes de Proyecto:
+	*Carolina Burgos
+	*Angel Moya
+	*Danny Ríos
+
+
+Dentro de la carpeta Scrapping EasyChair
+se encuentra un archivo CSV. en el que estará una tabla 
+con un formato establecido del procesamiento de datos.
+
+Los archivos utilizados son:
+	*Datos_Generales
+	*data.json
+	*scraping ieee/data_ieee.json
+	*r_easy.R
+
+
+my-app(front)...: dentro de la carpeta abrir un cmd y ejecutar: yarn start

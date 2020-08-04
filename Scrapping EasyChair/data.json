@@ -1,0 +1,2562 @@
+[
+    {
+        "acronimo": "ICCCBE+CIBW78 2020",
+        "nombre": "International ICCCBE and CIB W78 Joint Conference on Computing in Civil and Building Engineering 2020 - 18th ICCCBE + 37th CIB W78 2020",
+        "descripcion": "",
+        "ciudad": "Sao Paulo",
+        "pais": "Brazil",
+        "deadline": "Dec 16, 2019",
+        "fechaInicio": "Jun 2, 2020",
+        "topicos": "sensoring and monitoring/ data science,computer aided design analysis simulation,visualization/ virtual mixed augmented reality,bim/knowledge management/fm/smart cities,"
+    },
+    {
+        "acronimo": "IACL-28",
+        "nombre": "The 28th Annual Conference of the International Association of Chinese Linguistics",
+        "descripcion": "",
+        "ciudad": "Hangzhou",
+        "pais": "China",
+        "deadline": "-",
+        "fechaInicio": "May 15, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "IWESEP 2019",
+        "nombre": "10th IEEE International Workshop on Empirical Software Engineering in Practice",
+        "descripcion": "",
+        "ciudad": "Tokyo",
+        "pais": "Japan",
+        "deadline": "-",
+        "fechaInicio": "Dec 13, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICFEC 2020",
+        "nombre": "4th IEEE International Conference on Fog and Edge Computing (ICFEC 2020)",
+        "descripcion": "",
+        "ciudad": "Melbourne",
+        "pais": "Australia",
+        "deadline": "Nov 23, 2019",
+        "fechaInicio": "May 11, 2020",
+        "topicos": "edge computing,fog computing,"
+    },
+    {
+        "acronimo": "StaRAI2020",
+        "nombre": "Ninth Workshop on Statistical Relational AI",
+        "descripcion": "",
+        "ciudad": "New York",
+        "pais": "United States",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "-",
+        "topicos": "neural ai,probabilistic ai,logical ai,statistical relational learning,"
+    },
+    {
+        "acronimo": "MedHack19-01",
+        "nombre": "Health data machine learning Hackathon at UTHealth",
+        "descripcion": "",
+        "ciudad": "Houston",
+        "pais": "United States",
+        "deadline": "-",
+        "fechaInicio": "-",
+        "topicos": ""
+    },
+    {
+        "acronimo": "FC 2020_SIN",
+        "nombre": "The 10th international conference on frontier computing",
+        "descripcion": "",
+        "ciudad": "Singapore",
+        "pais": "Singapore",
+        "deadline": "Feb 28, 2020",
+        "fechaInicio": "Jul 10, 2020",
+        "topicos": "frontier computing,computer science,artificial intelligence,information and communication technology,"
+    },
+    {
+        "acronimo": "ASAIS2019",
+        "nombre": "Annual Southeast Asian International Seminar 2019",
+        "descripcion": "",
+        "ciudad": "Depok",
+        "pais": "Indonesia",
+        "deadline": "Nov 6, 2019",
+        "fechaInicio": "Nov 7, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "BIOPOLI 2020",
+        "nombre": "IV Workshop de Polímeros Biodegradables y Biocompuestos",
+        "descripcion": "",
+        "ciudad": "Mar Del Plata",
+        "pais": "Argentina",
+        "deadline": "Oct 18, 2019",
+        "fechaInicio": "Apr 6, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICCS2020",
+        "nombre": "International Conference on Cyber Security (ICCS)",
+        "descripcion": "",
+        "ciudad": "Islamabad",
+        "pais": "Pakistan",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Jan 21, 2020",
+        "topicos": "software and information systems security,cyber physical systems security,applied areas of security,cyber security,"
+    },
+    {
+        "acronimo": "ICNNEE2019",
+        "nombre": "International Conference on Non Conventional Energy - Nanotechnology & Nanomaterials for Energy and Environment (ICNNEE2019)",
+        "descripcion": "",
+        "ciudad": "Kalyani",
+        "pais": "India",
+        "deadline": "Sep 25, 2019",
+        "fechaInicio": "Oct 18, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "QFF 2020",
+        "nombre": "Quantum Frontiers and Fundamentals 2020",
+        "descripcion": "",
+        "ciudad": "Bengaluru",
+        "pais": "India",
+        "deadline": "Sep 22, 2019",
+        "fechaInicio": "Jan 13, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICRDEEPE-2020",
+        "nombre": "Recent Developments in Electrical, Electronics and Power Engineering",
+        "descripcion": "",
+        "ciudad": "Hyderabad",
+        "pais": "India",
+        "deadline": "Nov 10, 2019",
+        "fechaInicio": "Jan 3, 2020",
+        "topicos": "signal processing and computational techniques,res and its applications,electric drives and its applications,power systems power electronics,"
+    },
+    {
+        "acronimo": "Inbix2020",
+        "nombre": "Indian Conference on Bioinformatics 2020",
+        "descripcion": "",
+        "ciudad": "Shillong",
+        "pais": "India",
+        "deadline": "Mar 8, 2020",
+        "fechaInicio": "Apr 16, 2020",
+        "topicos": "agricultural bioinformatics,systems genomics,bioinformatics,"
+    },
+    {
+        "acronimo": "AJL4",
+        "nombre": "The 4th Asian Junior Linguists Conference",
+        "descripcion": "",
+        "ciudad": "Tokyo",
+        "pais": "Japan",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Dec 5, 2019",
+        "topicos": "phonetics phonology,semantics,syntax,morphology,"
+    },
+    {
+        "acronimo": "ICT&ES-2019",
+        "nombre": "Information-Communication Technologies & Embedded Systems",
+        "descripcion": "",
+        "ciudad": "Mykolaiv",
+        "pais": "Ukraine",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Nov 14, 2019",
+        "topicos": "embedded systems,computer science,information systems,"
+    },
+    {
+        "acronimo": "GEAS2019",
+        "nombre": "GEAS Graduate Conference “Sovereignty and Institutions in East Asia”",
+        "descripcion": "",
+        "ciudad": "Berlin",
+        "pais": "Germany",
+        "deadline": "Sep 1, 2019",
+        "fechaInicio": "Nov 22, 2019",
+        "topicos": "sovereignty in east asia,"
+    },
+    {
+        "acronimo": "TECNO2020",
+        "nombre": "La Tecnologia",
+        "descripcion": "",
+        "ciudad": "",
+        "pais": "",
+        "deadline": "Sep 8, 2019",
+        "fechaInicio": "Sep 14, 2019",
+        "topicos": "avances tecnologicos,era tecnologica,la tecnologia,"
+    },
+    {
+        "acronimo": "BioSFE 2020",
+        "nombre": "1st International Conference on Biotechnology, Smart Farming and Entrepreneurship for Food Security",
+        "descripcion": "",
+        "ciudad": "Kuching",
+        "pais": "Malaysia",
+        "deadline": "May 31, 2020",
+        "fechaInicio": "Nov 1, 2020",
+        "topicos": "food security,entrepreneurship,smart farming,biotechnology,"
+    },
+    {
+        "acronimo": "SWS'19",
+        "nombre": "SOFA Week Symposium 2019",
+        "descripcion": "",
+        "ciudad": "Paris",
+        "pais": "France",
+        "deadline": "Oct 27, 2019",
+        "fechaInicio": "Nov 20, 2019",
+        "topicos": "vr/ar,simulation,numerical methods,robotics,"
+    },
+    {
+        "acronimo": "NWPT 2019",
+        "nombre": "31st Nordic Workshop on Programming Theory",
+        "descripcion": "",
+        "ciudad": "Tallinn",
+        "pais": "Estonia",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Nov 13, 2019",
+        "topicos": "formal methods,testing,verification,programming languages,"
+    },
+    {
+        "acronimo": "PEDEPS-2019",
+        "nombre": "International Conference on Power Electronics, Drives, Energy & Power System",
+        "descripcion": "",
+        "ciudad": "Nagpur",
+        "pais": "India",
+        "deadline": "Nov 5, 2019",
+        "fechaInicio": "Dec 23, 2019",
+        "topicos": "control, instrumentation and iot,electric drives & mobility,power electronice and power system,energy,"
+    },
+    {
+        "acronimo": "ICFTMME-2020",
+        "nombre": "International Conference on Future Trends in Materials and Mechanical Engineering",
+        "descripcion": "",
+        "ciudad": "Ghaziabad",
+        "pais": "India",
+        "deadline": "Mar 15, 2020",
+        "fechaInicio": "May 29, 2020",
+        "topicos": "mechanical engineering,materials,"
+    },
+    {
+        "acronimo": "COMELA 2020",
+        "nombre": "Conference on Mediterranean and European Linguistic Anthropology 2020",
+        "descripcion": "",
+        "ciudad": "Athens",
+        "pais": "Greece",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "Sep 2, 2020",
+        "topicos": "discourse analysis,sociolinguistics,linguistics,anthropology,"
+    },
+    {
+        "acronimo": "IEEE BTB1",
+        "nombre": "IEEE Blockchain Technical Briefs",
+        "descripcion": "",
+        "ciudad": "NA",
+        "pais": "United States",
+        "deadline": "-",
+        "fechaInicio": "-",
+        "topicos": "applications of blockchain technology,distributed ledger technology,smart contract,blockchain,"
+    },
+    {
+        "acronimo": "BALAS2020",
+        "nombre": "BALAS 2020 Annual Conference",
+        "descripcion": "",
+        "ciudad": "Bogota",
+        "pais": "Colombia",
+        "deadline": "Oct 1, 2019",
+        "fechaInicio": "Apr 1, 2020",
+        "topicos": "latin america,emerging markets,research,business,"
+    },
+    {
+        "acronimo": "toppicks19",
+        "nombre": "Top Picks in Hardware and Embedded Security",
+        "descripcion": "",
+        "ciudad": "Westminster",
+        "pais": "United States",
+        "deadline": "Sep 12, 2019",
+        "fechaInicio": "Nov 4, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "sinastek2019",
+        "nombre": "Seminar Ilmiah Nasional Sains dan Teknologi Ke-5 Tahun 2019",
+        "descripcion": "",
+        "ciudad": "Gowa",
+        "pais": "Indonesia",
+        "deadline": "Aug 30, 2019",
+        "fechaInicio": "Sep 25, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "EICSE2019",
+        "nombre": "The 3rd EPI International Conference on Science and Engineering",
+        "descripcion": "",
+        "ciudad": "Makassar",
+        "pais": "Indonesia",
+        "deadline": "Aug 30, 2019",
+        "fechaInicio": "Sep 24, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "KIISC-CC 19",
+        "nombre": "KIISC-Chungcheong Chapter",
+        "descripcion": "",
+        "ciudad": "Daejeon",
+        "pais": "South Korea",
+        "deadline": "-",
+        "fechaInicio": "Oct 18, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICRSF’20",
+        "nombre": "International Conference of Research and Studies in Finance",
+        "descripcion": "",
+        "ciudad": "FEZ",
+        "pais": "Morocco",
+        "deadline": "Dec 15, 2019",
+        "fechaInicio": "Mar 3, 2020",
+        "topicos": "financial inclusion,collaborative finance,blockchain and fintech,sustainable finance,"
+    },
+    {
+        "acronimo": "CALA 2020",
+        "nombre": "Conference on Asian Linguistic Anthropology",
+        "descripcion": "",
+        "ciudad": "Bintulu",
+        "pais": "Malaysia",
+        "deadline": "Aug 23, 2019",
+        "fechaInicio": "Feb 5, 2020",
+        "topicos": "cultural studies,sociolinguistics,anthropology,linguistics,"
+    },
+    {
+        "acronimo": "APPEEC 2020",
+        "nombre": "The 12th Asia-Pacific Power and Energy Engineering Conference (APPEEC 2020)",
+        "descripcion": "",
+        "ciudad": "Xi'an",
+        "pais": "China",
+        "deadline": "Mar 24, 2020",
+        "fechaInicio": "Apr 24, 2020",
+        "topicos": "energy engineering,power,"
+    },
+    {
+        "acronimo": "I3SET2K19",
+        "nombre": "International Conference on Industry Interactive Innovations in Science, Engineering and Technology (I3SET2K19)",
+        "descripcion": "",
+        "ciudad": "Kalyani",
+        "pais": "India",
+        "deadline": "Nov 25, 2019",
+        "fechaInicio": "Dec 19, 2019",
+        "topicos": "biomedical instrumentation bioinformatics nanobiotechnology,pattern recognition machine intelligence robotics,nano devices embedded system,advanced power systems,"
+    },
+    {
+        "acronimo": "ISIPS 2019",
+        "nombre": "The 13th International collaboration Symposium on Information, Production and Systems",
+        "descripcion": "",
+        "ciudad": "Kitakyushu",
+        "pais": "Japan",
+        "deadline": "Nov 1, 2019",
+        "fechaInicio": "Nov 21, 2019",
+        "topicos": "integrated systems,production systems,information,"
+    },
+    {
+        "acronimo": "Cyber2020",
+        "nombre": "Cyber Science 2020",
+        "descripcion": "",
+        "ciudad": "Dublin",
+        "pais": "Ireland",
+        "deadline": "Jan 24, 2020",
+        "fechaInicio": "Jun 14, 2020",
+        "topicos": "cyber incident response,cyber situational awareness,cyber security,social media,"
+    },
+    {
+        "acronimo": "CCC 2020",
+        "nombre": "The 3rd Context, Cognition and Communication Conference",
+        "descripcion": "",
+        "ciudad": "Warsaw",
+        "pais": "Poland",
+        "deadline": "Jan 31, 2020",
+        "fechaInicio": "Jun 19, 2020",
+        "topicos": "semantics and pragamtics,philosophy of mind,philosophy of language,"
+    },
+    {
+        "acronimo": "SCESCM 2020",
+        "nombre": "5th International Conference on Sustainable Civil Engineering Structures and Construction Materials",
+        "descripcion": "",
+        "ciudad": "Kuching",
+        "pais": "Malaysia",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Aug 11, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICLA10",
+        "nombre": "10th International Conference on Laser Applications",
+        "descripcion": "",
+        "ciudad": "Giza",
+        "pais": "Egypt",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Nov 23, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "avia2019",
+        "nombre": "4th Avia Semana de Design",
+        "descripcion": "",
+        "ciudad": "Maceió",
+        "pais": "Brazil",
+        "deadline": "Sep 20, 2019",
+        "fechaInicio": "Dec 2, 2019",
+        "topicos": "design de interiores,design de produto,desenho gráfico,design,"
+    },
+    {
+        "acronimo": "FMM2",
+        "nombre": "Frontiers in Mental Health",
+        "descripcion": "",
+        "ciudad": "Jeddah",
+        "pais": "Saudi Arabia",
+        "deadline": "Oct 27, 2019",
+        "fechaInicio": "Nov 28, 2019",
+        "topicos": "interdisciplinary therapies in mental health,interdisciplinary research in mental health,big data and mental health,technology and mental health,"
+    },
+    {
+        "acronimo": "MCPR2020",
+        "nombre": "Mexican Conference on Pattern Recognition",
+        "descripcion": "",
+        "ciudad": "Morelia",
+        "pais": "Mexico",
+        "deadline": "Jan 26, 2020",
+        "fechaInicio": "Jun 24, 2020",
+        "topicos": "data mining,computer vision,artificial intelligence,pattern recognition,"
+    },
+    {
+        "acronimo": "PAIR-AAAI-2020",
+        "nombre": "PAIR-20: AAAI-20 Workshop on Plan Activity and Intent Recognition",
+        "descripcion": "",
+        "ciudad": "New York",
+        "pais": "United States",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "Feb 7, 2020",
+        "topicos": "artificial intelligence,activity recognition,goal recognition,plan recognition,"
+    },
+    {
+        "acronimo": "JAEIS2019",
+        "nombre": "日本情報科教育学会2019年度学会誌",
+        "descripcion": "",
+        "ciudad": "",
+        "pais": "",
+        "deadline": "Sep 8, 2019",
+        "fechaInicio": "-",
+        "topicos": "情報科教員養成・研修,社会と情報,情報の科学,情報科教育,"
+    },
+    {
+        "acronimo": "CLEAR2020",
+        "nombre": "The 5th International Conference on Contaminated Land, Ecological Assessment and Remediation|",
+        "descripcion": "",
+        "ciudad": "London",
+        "pais": "UK",
+        "deadline": "Feb 29, 2020",
+        "fechaInicio": "May 13, 2020",
+        "topicos": "climate change,sustainability,sustainable development,environment,"
+    },
+    {
+        "acronimo": "QCEC 2020",
+        "nombre": "Quantum Computing & Engineering Conference",
+        "descripcion": "",
+        "ciudad": "Laurel",
+        "pais": "United States",
+        "deadline": "Apr 30, 2020",
+        "fechaInicio": "Jun 5, 2020",
+        "topicos": "global quantum research,quantum computing and articifial intelligence,quantum information theory and science,quantum computing algorithms,"
+    },
+    {
+        "acronimo": "BPM 2020",
+        "nombre": "18th International Conference on Business Process Management",
+        "descripcion": "",
+        "ciudad": "Sevilla",
+        "pais": "Spain",
+        "deadline": "Mar 16, 2020",
+        "fechaInicio": "Sep 15, 2020",
+        "topicos": "business process automation,process mining,business process modeling,business process management,"
+    },
+    {
+        "acronimo": "ITCS20",
+        "nombre": "Innovations in Theoretical Computer Science",
+        "descripcion": "",
+        "ciudad": "Seattle",
+        "pais": "United States",
+        "deadline": "Sep 9, 2019",
+        "fechaInicio": "Jan 12, 2020",
+        "topicos": "theoretical computer science,"
+    },
+    {
+        "acronimo": "FL-LATAM19",
+        "nombre": "Fablearn Latin America 2019",
+        "descripcion": "",
+        "ciudad": "Montevideo",
+        "pais": "Uruguay",
+        "deadline": "-",
+        "fechaInicio": "Nov 8, 2019",
+        "topicos": "constructionism,digital fabrication,maker education,"
+    },
+    {
+        "acronimo": "GURT 2020",
+        "nombre": "Georgetown Round Table of Languages and Linguistics 2020",
+        "descripcion": "",
+        "ciudad": "Washington",
+        "pais": "United States",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Mar 13, 2020",
+        "topicos": "multilingualism,"
+    },
+    {
+        "acronimo": "IEEE DAPPS 2020",
+        "nombre": "The 2nd IEEE International Conference on Decentralized Applications and Infrastructures",
+        "descripcion": "",
+        "ciudad": "Oxford",
+        "pais": "UK",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Apr 13, 2020",
+        "topicos": "distributed ledger technologies,decentralized applications,smart contracts,blockchain,"
+    },
+    {
+        "acronimo": "WEPA 2019",
+        "nombre": "Third Workshop on Enumeration Problems and Applications",
+        "descripcion": "",
+        "ciudad": "Hyogo",
+        "pais": "Japan",
+        "deadline": "-",
+        "fechaInicio": "Oct 28, 2019",
+        "topicos": "counting,enumeration,listing,algorithms,"
+    },
+    {
+        "acronimo": "BENEVOL 2019",
+        "nombre": "18th Belgium-Netherlands Software Evolution Workshop",
+        "descripcion": "",
+        "ciudad": "Brussels",
+        "pais": "Belgium",
+        "deadline": "Oct 31, 2019",
+        "fechaInicio": "Nov 28, 2019",
+        "topicos": "software engineering,"
+    },
+    {
+        "acronimo": "IC-ICN-2020",
+        "nombre": "International Conference on Intelligent Computing and Networking",
+        "descripcion": "",
+        "ciudad": "Kandivali East Mumbai",
+        "pais": "India",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Feb 28, 2020",
+        "topicos": "networking,intelligent computing,"
+    },
+    {
+        "acronimo": "17 ERGODESIGN & USIHC",
+        "nombre": "17 Congresso Internacional de Ergodesign e Usabilidade de Interfaces Humano-Tecnologia: Produto, Informação, Ambiente Construido e Transportes & 17 Congresso Internacional de Ergodesign e Usabilidade de Interfaces Humano-Computador",
+        "descripcion": "",
+        "ciudad": "Rio de Janeiro",
+        "pais": "Brazil",
+        "deadline": "Sep 8, 2019",
+        "fechaInicio": "Dec 11, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICCABS 2019",
+        "nombre": "IEEE 9th International Conference on Computational Advances in Bio and medical Sciences (ICCABS)",
+        "descripcion": "",
+        "ciudad": "Miami",
+        "pais": "United States",
+        "deadline": "-",
+        "fechaInicio": "Nov 15, 2019",
+        "topicos": "biomedical informatics,big data,bioinformatics,computational biology,"
+    },
+    {
+        "acronimo": "KHURELTOGOOT2019",
+        "nombre": "15th International Conference of Technology and Innovation of Young Researchers’ \"KHURELTOGOOT 2019\"",
+        "descripcion": "",
+        "ciudad": "Ulaanbaatar",
+        "pais": "Mongolia",
+        "deadline": "Sep 10, 2019",
+        "fechaInicio": "Oct 26, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "CPEE 2019",
+        "nombre": "2019 IEEE 20th International Conference on Computational Problems of Electrical Engineering",
+        "descripcion": "",
+        "ciudad": "Lviv",
+        "pais": "Ukraine",
+        "deadline": "Jun 30, 2019",
+        "fechaInicio": "Sep 15, 2019",
+        "topicos": "education,specific biomedical problems,signal processing,numerical and optimization methods,"
+    },
+    {
+        "acronimo": "PlantComp2020",
+        "nombre": "Workshop on plant sensing and computing",
+        "descripcion": "",
+        "ciudad": "Gent",
+        "pais": "Belgium",
+        "deadline": "Sep 22, 2019",
+        "fechaInicio": "Jan 21, 2020",
+        "topicos": "plant sensing,plant physiology,computing,modelling,"
+    },
+    {
+        "acronimo": "CIIA 2019",
+        "nombre": "Congreso Internacional de Informatica Administrativa",
+        "descripcion": "",
+        "ciudad": "Atlacomulco",
+        "pais": "Mexico",
+        "deadline": "Sep 20, 2019",
+        "fechaInicio": "Oct 16, 2019",
+        "topicos": "ciencia de datos,inteligencia artificial,"
+    },
+    {
+        "acronimo": "ERPBSS-2020",
+        "nombre": "Fifth International Conference on Emerging Research Paradigms in Business and Social Sciences",
+        "descripcion": "",
+        "ciudad": "Dubai",
+        "pais": "UAE",
+        "deadline": "Oct 10, 2019",
+        "fechaInicio": "Jan 13, 2020",
+        "topicos": "innovation,opportunity,mobility,sustainability,"
+    },
+    {
+        "acronimo": "ICDMST20",
+        "nombre": "2nd International Conference on Digital Marketing, Smart Tourism",
+        "descripcion": "",
+        "ciudad": "Hammamet",
+        "pais": "Tunisia",
+        "deadline": "Dec 24, 2019",
+        "fechaInicio": "Mar 20, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ISERT 2020",
+        "nombre": "International Conference on Interdisciplinary Studies in Education Research and Technology",
+        "descripcion": "",
+        "ciudad": "Dubai",
+        "pais": "UAE",
+        "deadline": "Nov 20, 2020",
+        "fechaInicio": "Dec 21, 2020",
+        "topicos": "business administration and financial development,computer science and information technology,arts education and humanities,engineering science and technologies,"
+    },
+    {
+        "acronimo": "V FIB2019",
+        "nombre": "V Fórum Internacional de Biofotônica",
+        "descripcion": "",
+        "ciudad": "São Paulo",
+        "pais": "Brazil",
+        "deadline": "Oct 1, 2019",
+        "fechaInicio": "Oct 1, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICAIA2020",
+        "nombre": "The International Conference on Artificial Intelligence and Applications",
+        "descripcion": "",
+        "ciudad": "JANAKPURI",
+        "pais": "India",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Feb 7, 2020",
+        "topicos": "fuzzy logic,artificial intelligence,technology,science,"
+    },
+    {
+        "acronimo": "CITASEP-2020",
+        "nombre": "Computational Intelligence Techniques and their Applications to Software Engineering Problems",
+        "descripcion": "",
+        "ciudad": "Delhi",
+        "pais": "India",
+        "deadline": "Feb 25, 2020",
+        "fechaInicio": "Oct 17, 2020",
+        "topicos": "metaheuristics for test case optimization,intelligent feature selection techniques,software quality prediction,computational intelligence techniques,"
+    },
+    {
+        "acronimo": "2 CEIAAIT",
+        "nombre": "2do. Congreso Estudiantil de Inteligencia Artificial Aplicada a La Ingeniería y Tecnología",
+        "descripcion": "",
+        "ciudad": "Cuautitlán Izcalli",
+        "pais": "Mexico",
+        "deadline": "Nov 8, 2019",
+        "fechaInicio": "Nov 13, 2019",
+        "topicos": "artificial intelligence,tecnología,ingeniería,inteligencia artificial,"
+    },
+    {
+        "acronimo": "ICAET 2020",
+        "nombre": "International Conferences on Advances in Energy Technology",
+        "descripcion": "",
+        "ciudad": "Khurda",
+        "pais": "India",
+        "deadline": "Dec 7, 2019",
+        "fechaInicio": "Jan 17, 2020",
+        "topicos": "renewal energy,energy systems,green technology,energy technology,"
+    },
+    {
+        "acronimo": "LINQ 2019",
+        "nombre": "Learning Innovations and Quality (LINQ) 2019",
+        "descripcion": "",
+        "ciudad": "Roermond",
+        "pais": "Netherlands",
+        "deadline": "Oct 11, 2019",
+        "fechaInicio": "Nov 22, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICPET-2019",
+        "nombre": "3rd International Conference on Paradigms in Engineering and Technology",
+        "descripcion": "",
+        "ciudad": "Hyderabad",
+        "pais": "India",
+        "deadline": "Nov 20, 2019",
+        "fechaInicio": "-",
+        "topicos": "electrical and electronics communication engineering,computer science engineering,mechanical engineering,civil engineering,"
+    },
+    {
+        "acronimo": "ICDA’2019",
+        "nombre": "1 st International Conference on Digitization and it’s Applications",
+        "descripcion": "",
+        "ciudad": "M’sila",
+        "pais": "Algeria",
+        "deadline": "Sep 25, 2019",
+        "fechaInicio": "Dec 2, 2019",
+        "topicos": "digitization in high education,innovative teaching through online platforms,ict for learning,computer science,"
+    },
+    {
+        "acronimo": "SMART2019",
+        "nombre": "Eight IEEE International Conference on System Modeling & Advancement in Research Trends",
+        "descripcion": "",
+        "ciudad": "Moradabad",
+        "pais": "India",
+        "deadline": "Jul 25, 2019",
+        "fechaInicio": "Nov 22, 2019",
+        "topicos": "iot,emerging technologies,"
+    },
+    {
+        "acronimo": "Synsemkwa1",
+        "nombre": "Syntax and semantics of Kwa Workshop in honor of Felix Ameka, Kweku Osam and Kofi Saah",
+        "descripcion": "",
+        "ciudad": "Legon",
+        "pais": "Ghana",
+        "deadline": "Nov 29, 2019",
+        "fechaInicio": "-",
+        "topicos": "serial verb constructions,semantics of kwa languages,syntax of kwa languages,information structure,"
+    },
+    {
+        "acronimo": "PARC 2020",
+        "nombre": "International Conference on Power Electronics & IoT Applications in Renewable Energy and its Control",
+        "descripcion": "",
+        "ciudad": "Mathura",
+        "pais": "India",
+        "deadline": "Dec 5, 2019",
+        "fechaInicio": "Feb 28, 2020",
+        "topicos": "renewable enegy applications & control,iot analytics for renewable sector,renewable energy grid integration,power electronics in renewabel energy,"
+    },
+    {
+        "acronimo": "CASSW2019",
+        "nombre": "9th IEEE CASS Rio Grande do Sul Workshop",
+        "descripcion": "",
+        "ciudad": "Porto Alegre",
+        "pais": "Brazil",
+        "deadline": "Sep 22, 2019",
+        "fechaInicio": "Oct 15, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ERPBSS-2020",
+        "nombre": "Fifth International Conference on Emerging Research Paradigms in Business and Social Sciences (ERPBSS-2020)",
+        "descripcion": "",
+        "ciudad": "Dubai",
+        "pais": "UAE",
+        "deadline": "Oct 10, 2019",
+        "fechaInicio": "Jan 14, 2020",
+        "topicos": "innovation,opportunity,mobility,sustainability,"
+    },
+    {
+        "acronimo": "ICEAS 2019",
+        "nombre": "Internasional Conference on Environmental and Agriculture Sustainability 2019",
+        "descripcion": "",
+        "ciudad": "Palu",
+        "pais": "Indonesia",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Nov 4, 2019",
+        "topicos": "environmental and fishing industry,agromedical sustainability,agriculture impact on environment,environmental education,"
+    },
+    {
+        "acronimo": "SOM 2019",
+        "nombre": "XXIII Annual International Conference of the Society of Operations Management",
+        "descripcion": "",
+        "ciudad": "Kanpur",
+        "pais": "India",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Dec 19, 2019",
+        "topicos": "lean operations,logistics management,supply chain management,operations management,"
+    },
+    {
+        "acronimo": "SNG 2019",
+        "nombre": "Seminar Nasional Geofisika 2019",
+        "descripcion": "",
+        "ciudad": "Makassar",
+        "pais": "Indonesia",
+        "deadline": "Oct 12, 2019",
+        "fechaInicio": "Oct 12, 2019",
+        "topicos": "seismology,meteorology oceanography,geophysics,seismic,"
+    },
+    {
+        "acronimo": "IC-VUCA 2019",
+        "nombre": "International Conference on Volatility, Uncertainty, Complexity, and Ambiguity in Business",
+        "descripcion": "",
+        "ciudad": "Meerut",
+        "pais": "India",
+        "deadline": "Oct 14, 2019",
+        "fechaInicio": "Nov 23, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "COSM 2020",
+        "nombre": "COSM 2020: Canadian Obesity Student Meeting",
+        "descripcion": "",
+        "ciudad": "Toronto",
+        "pais": "Canada",
+        "deadline": "Mar 23, 2020",
+        "fechaInicio": "Jun 17, 2020",
+        "topicos": "weight bias and stigma,obesity prevention and treatment,populations,health policy,"
+    },
+    {
+        "acronimo": "ICHFCT’20",
+        "nombre": "2nd International Conference on Hydrogen & Fuel Cell Energy Technologies",
+        "descripcion": "",
+        "ciudad": "Hammamet",
+        "pais": "Tunisia",
+        "deadline": "Dec 24, 2019",
+        "fechaInicio": "Mar 20, 2020",
+        "topicos": "metal hydrogen,"
+    },
+    {
+        "acronimo": "VMBO 2020",
+        "nombre": "The 14th International Workshop on Value Modelling and Business Ontologies",
+        "descripcion": "",
+        "ciudad": "Brussels",
+        "pais": "Belgium",
+        "deadline": "Nov 24, 2019",
+        "fechaInicio": "Jan 16, 2020",
+        "topicos": "business models,business ontology,value modelling,service design,"
+    },
+    {
+        "acronimo": "KDF2020",
+        "nombre": "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services",
+        "descripcion": "",
+        "ciudad": "New York",
+        "pais": "United States",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "Feb 7, 2020",
+        "topicos": "machine learning,artificial intelligence,knowledge discovery,natural language processing,"
+    },
+    {
+        "acronimo": "IKIT 2020",
+        "nombre": "International WorkShop on Information and Knowledge in Internet of Things",
+        "descripcion": "",
+        "ciudad": "Bogotá",
+        "pais": "Colombia",
+        "deadline": "Oct 18, 2019",
+        "fechaInicio": "Feb 5, 2020",
+        "topicos": "security in information systems,pervasive business intelligence,iot knowledge network,context aware systems and applications,"
+    },
+    {
+        "acronimo": "iATMS 2019",
+        "nombre": "International Conference on Advances in Technology, Management and Sciences",
+        "descripcion": "",
+        "ciudad": "Dubai",
+        "pais": "UAE",
+        "deadline": "Sep 1, 2019",
+        "fechaInicio": "Oct 30, 2019",
+        "topicos": "smart computing,sciences,management,technology,"
+    },
+    {
+        "acronimo": "CMWR 2020",
+        "nombre": "Computational Methods in Water Resources 2020",
+        "descripcion": "",
+        "ciudad": "Stanford",
+        "pais": "United States",
+        "deadline": "-",
+        "fechaInicio": "Jun 21, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "TC2020",
+        "nombre": "Biennial Threshold Concepts Conference 2020",
+        "descripcion": "",
+        "ciudad": "London",
+        "pais": "UK",
+        "deadline": "-",
+        "fechaInicio": "Jul 7, 2020",
+        "topicos": "educational development,academic development,higher education pedagogy,threshold concepts,"
+    },
+    {
+        "acronimo": "MobileCloud 2020",
+        "nombre": "The 8th IEEE International Conference on Mobile Cloud Computing",
+        "descripcion": "",
+        "ciudad": "Oxford",
+        "pais": "UK",
+        "deadline": "Dec 1, 2019",
+        "fechaInicio": "Apr 13, 2020",
+        "topicos": "network edge cloud,mec,mobile cloud,cloud computing,"
+    },
+    {
+        "acronimo": "ICLI2020",
+        "nombre": "International Conference on Live Interfaces 2020",
+        "descripcion": "",
+        "ciudad": "Trondheim",
+        "pais": "Norway",
+        "deadline": "Nov 2, 2019",
+        "fechaInicio": "Mar 9, 2020",
+        "topicos": "music and sound art,performance and performativity,artistic research,human computer interface,"
+    },
+    {
+        "acronimo": "AATSR19",
+        "nombre": "Alternative Approaches to Scientific Realism",
+        "descripcion": "",
+        "ciudad": "Munich",
+        "pais": "Germany",
+        "deadline": "Dec 15, 2019",
+        "fechaInicio": "Apr 16, 2020",
+        "topicos": "pluralism,perspectival realism,relativism,structural realism,"
+    },
+    {
+        "acronimo": "SPINE DRD 2019",
+        "nombre": "5th SPINE doctoral research day",
+        "descripcion": "",
+        "ciudad": "Basel",
+        "pais": "Switzerland",
+        "deadline": "-",
+        "fechaInicio": "Nov 6, 2019",
+        "topicos": "t3 completed study,t2 study in progress,t1 overview of phd,"
+    },
+    {
+        "acronimo": "LDMSCON2019",
+        "nombre": "LDMS Users Group Conference",
+        "descripcion": "",
+        "ciudad": "Orlando",
+        "pais": "United States",
+        "deadline": "Sep 20, 2019",
+        "fechaInicio": "Oct 22, 2019",
+        "topicos": "ldms,performance analysis,monitoring,"
+    },
+    {
+        "acronimo": "CyCon 2020",
+        "nombre": "CyCon 2020: 12th International Conference on Cyber Conflict",
+        "descripcion": "",
+        "ciudad": "Tallinn",
+        "pais": "Estonia",
+        "deadline": "Jan 6, 2020",
+        "fechaInicio": "May 26, 2020",
+        "topicos": "ict and critical infrastructure threats,legal aspects of cyber operations,ai and cognitive cyber security,cyber weapons and apt capabilities,"
+    },
+    {
+        "acronimo": "WiCyS 2020",
+        "nombre": "Women in CyberSecurity Annual Conference",
+        "descripcion": "",
+        "ciudad": "Aurora",
+        "pais": "United States",
+        "deadline": "Oct 19, 2019",
+        "fechaInicio": "Mar 12, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "SAUPEC/RobMech/PRASA 2020",
+        "nombre": "SAUPEC/RobMech/PRASA 2020",
+        "descripcion": "",
+        "ciudad": "Cape Town",
+        "pais": "South Africa",
+        "deadline": "-",
+        "fechaInicio": "Jan 29, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICCCIoT 2020",
+        "nombre": "International Conference on Computer Communication and Internet of Things (ICCCIoT) 2020",
+        "descripcion": "",
+        "ciudad": "Agartala",
+        "pais": "India",
+        "deadline": "Sep 2, 2019",
+        "fechaInicio": "Feb 3, 2020",
+        "topicos": "fundamental and applied sciences,electrical and electronic engineering,computer and information sciences,computer communication and iot,"
+    },
+    {
+        "acronimo": "SUSTAINABLE_COOKING 2020",
+        "nombre": "Sustainable Cooking: Technology, Economics, Environment and Health",
+        "descripcion": "",
+        "ciudad": "New York",
+        "pais": "United States",
+        "deadline": "Jan 20, 2020",
+        "fechaInicio": "-",
+        "topicos": "environment and health,sustainable cooking,economics,technology,"
+    },
+    {
+        "acronimo": "SMART_RE 2020",
+        "nombre": "Smart Renewable Energy and Power Grid Systems",
+        "descripcion": "",
+        "ciudad": "New York",
+        "pais": "United States",
+        "deadline": "Nov 20, 2019",
+        "fechaInicio": "-",
+        "topicos": "power grid systems,solar and wind energy,smart renewable energy systems,smart grid,"
+    },
+    {
+        "acronimo": "ITCSD2020",
+        "nombre": "3rd International Conference on Innovative Technologies for Clean and Sustainable Development",
+        "descripcion": "",
+        "ciudad": "Chandigarh",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Feb 19, 2020",
+        "topicos": "sustainable constructing,building materials and construction,materials science,civil engineering,"
+    },
+    {
+        "acronimo": "ICLCHS 2019",
+        "nombre": "International Conference on Life, Chemical and Health Sciences",
+        "descripcion": "",
+        "ciudad": "Bengaluru",
+        "pais": "India",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Oct 24, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "AES2019",
+        "nombre": "1st International Conference on Advancement in Engineering Sciences 2019",
+        "descripcion": "",
+        "ciudad": "Katra",
+        "pais": "India",
+        "deadline": "-",
+        "fechaInicio": "Sep 28, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "Non-Q-wh-clauses 2020",
+        "nombre": "Non-Interrogative Subordinate Wh-Clauses",
+        "descripcion": "",
+        "ciudad": "Cologne",
+        "pais": "Germany",
+        "deadline": "Oct 31, 2019",
+        "fechaInicio": "Feb 7, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICICEEE-2020",
+        "nombre": "International Conference on Innovations in  Computer, Electrical and Electronics Engineering",
+        "descripcion": "",
+        "ciudad": "Pandharpur",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Jan 2, 2020",
+        "topicos": "computer science and engineering,electronics & telecommunication engineering,electrical engineering,"
+    },
+    {
+        "acronimo": "ICSICME-2020",
+        "nombre": "International Conference on Sustainable Innovations in Civil and Mechanical Engineering",
+        "descripcion": "",
+        "ciudad": "Pandharpur",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Jan 2, 2020",
+        "topicos": "industrial engineering,composite,structural design,"
+    },
+    {
+        "acronimo": "ICSD 2020",
+        "nombre": "8th International Conference on Sustainable Development",
+        "descripcion": "",
+        "ciudad": "Rome",
+        "pais": "Italy",
+        "deadline": "Jun 15, 2020",
+        "fechaInicio": "Sep 9, 2020",
+        "topicos": "education,energy,economics,sustainable development,"
+    },
+    {
+        "acronimo": "iCoMET 2020",
+        "nombre": "2020 3rd International Conference on Computing, Mathematics and Engineering Technologies",
+        "descripcion": "",
+        "ciudad": "Sukkur",
+        "pais": "Pakistan",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Jan 29, 2020",
+        "topicos": "mathematics,engineering,computing,"
+    },
+    {
+        "acronimo": "ICMIR 2019",
+        "nombre": "International Conference on Multidisciplinary Innovations and Research",
+        "descripcion": "",
+        "ciudad": "Kuala Lumpur",
+        "pais": "Malaysia",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Nov 23, 2019",
+        "topicos": "design and arts,learning and education,"
+    },
+    {
+        "acronimo": "ICSMN-2020",
+        "nombre": "International Conference on Smart Materials and Nanotechnology",
+        "descripcion": "",
+        "ciudad": "Pandharpur",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Jan 2, 2020",
+        "topicos": "soft magnetic materials,optoelectronic materials,nanomaterials and nanotechnology,crystal growth and applications,"
+    },
+    {
+        "acronimo": "HLS1",
+        "nombre": "Heritage Language Syntax",
+        "descripcion": "",
+        "ciudad": "Utrecht",
+        "pais": "Netherlands",
+        "deadline": "Oct 31, 2019",
+        "fechaInicio": "Mar 12, 2020",
+        "topicos": "change in contact,diachronic syntax,heritage languages,syntax,"
+    },
+    {
+        "acronimo": "WACCI 2019",
+        "nombre": "International Workshop on Adaptive, Compressive and Computational Imaging 2019",
+        "descripcion": "",
+        "ciudad": "Valparaiso",
+        "pais": "Chile",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "-",
+        "topicos": "compressive sensing,3d imaging and computational displays,spectral imaging,computational imaging,"
+    },
+    {
+        "acronimo": "ACMC2019",
+        "nombre": "The International Conference on Membrane Computing (Asian Branch)",
+        "descripcion": "",
+        "ciudad": "Xiamen",
+        "pais": "China",
+        "deadline": "-",
+        "fechaInicio": "Nov 14, 2019",
+        "topicos": "related topics,implementation of membrane computing models,applications of membrane computing,theoretical aspects of membrane computing,"
+    },
+    {
+        "acronimo": "IWITQS2020",
+        "nombre": "International Workshop on Using IT in the service of Quraan and Sunnah and their sciences",
+        "descripcion": "",
+        "ciudad": "Khartoum",
+        "pais": "Sudan",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Jan 6, 2020",
+        "topicos": "knowledge management,information systems,computer sciences,information technology,"
+    },
+    {
+        "acronimo": "ICISP2020",
+        "nombre": "9th International Conference on Image and Signal Processing",
+        "descripcion": "",
+        "ciudad": "Marrakech",
+        "pais": "Morocco",
+        "deadline": "Jan 19, 2020",
+        "fechaInicio": "Jun 4, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "WAMCA2019",
+        "nombre": "10th Workshop on Applications for Multi-Core Architectures",
+        "descripcion": "",
+        "ciudad": "Campo Grande",
+        "pais": "Brazil",
+        "deadline": "Aug 26, 2019",
+        "fechaInicio": "Oct 12, 2019",
+        "topicos": "gpu,parallelism,multicore,hpc,"
+    },
+    {
+        "acronimo": "AMIA 2019 NLP Working Group Pre-Symposium",
+        "nombre": "AMIA 2019 NLP Working Group Pre-Symposium:  Graduate Student Consortium, Community Challenges/Workshops, and System Demos",
+        "descripcion": "",
+        "ciudad": "Washington",
+        "pais": "United States",
+        "deadline": "Aug 16, 2019",
+        "fechaInicio": "Nov 13, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "TCSET-2020",
+        "nombre": "15th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering",
+        "descripcion": "",
+        "ciudad": "Lviv-Slavske",
+        "pais": "Ukraine",
+        "deadline": "Dec 1, 2019",
+        "fechaInicio": "Feb 25, 2020",
+        "topicos": "electronics,communication,computer engineering,internet of things,"
+    },
+    {
+        "acronimo": "SOMChE2020",
+        "nombre": "32nd Symposium of Malaysian Chemical Engineers 2020",
+        "descripcion": "",
+        "ciudad": "Kuching",
+        "pais": "Malaysia",
+        "deadline": "Nov 25, 2019",
+        "fechaInicio": "Apr 9, 2020",
+        "topicos": "materials science and engineering,bioprocessing and biotechnology,environmental and waste management,green and sustainable processing,"
+    },
+    {
+        "acronimo": "ІЕЕЕ ATIT 2019",
+        "nombre": "2019 IEEE International Conference on Advanced Trends in Information Theory",
+        "descripcion": "",
+        "ciudad": "Kyiv",
+        "pais": "Ukraine",
+        "deadline": "-",
+        "fechaInicio": "Dec 17, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "WiSPNET 2020",
+        "nombre": "2020 International Conference on Wireless communications, signal processing and networking",
+        "descripcion": "",
+        "ciudad": "Chennai",
+        "pais": "India",
+        "deadline": "Dec 31, 2019",
+        "fechaInicio": "Mar 19, 2020",
+        "topicos": "antennas communication and information theory,wsn and networking protocols,signal and image processing,assistive technology,"
+    },
+    {
+        "acronimo": "ANH2020",
+        "nombre": "Adapt Northern Heritage Conference 2020",
+        "descripcion": "",
+        "ciudad": "Edinburgh",
+        "pais": "UK",
+        "deadline": "-",
+        "fechaInicio": "May 5, 2020",
+        "topicos": "place adaptations,risk assessments,cultural heritage,climate change,"
+    },
+    {
+        "acronimo": "CLS 56",
+        "nombre": "Chicago Linguistic Society",
+        "descripcion": "",
+        "ciudad": "Chicago",
+        "pais": "United States",
+        "deadline": "Jan 8, 2020",
+        "fechaInicio": "Apr 30, 2020",
+        "topicos": "resumptivity,heritage language linguistics,speech acts,"
+    },
+    {
+        "acronimo": "MCSSA 2019",
+        "nombre": "The Second Workshop on Mobile Crowdsensing Systems and Applications",
+        "descripcion": "",
+        "ciudad": "Monterey",
+        "pais": "United States",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Nov 4, 2019",
+        "topicos": "security and privacy,data analytics,data management,mobile crowdsensing,"
+    },
+    {
+        "acronimo": "WISP2019",
+        "nombre": "Workshop on Information Security and Privacy 2019",
+        "descripcion": "",
+        "ciudad": "Munich",
+        "pais": "Germany",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Dec 15, 2019",
+        "topicos": "trust and freedom of expression,behavioral issues in information security,security and privacy,cybersecurity,"
+    },
+    {
+        "acronimo": "ICoAT'20",
+        "nombre": "International Conference on Applied Science & Technology",
+        "descripcion": "",
+        "ciudad": "Greater Noida",
+        "pais": "India",
+        "deadline": "Feb 15, 2020",
+        "fechaInicio": "Mar 21, 2020",
+        "topicos": "environment,science,technology,engineering,"
+    },
+    {
+        "acronimo": "V CCT 2019",
+        "nombre": "V Congresso de Ciência e Tecnologia da UTFPR Dois Vizinhos",
+        "descripcion": "",
+        "ciudad": "Dois Vizinhos",
+        "pais": "Brazil",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Oct 21, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "REAIS19",
+        "nombre": "Rigorous Evaluation of AI Systems  (HCOMP 2019 Workshop)",
+        "descripcion": "",
+        "ciudad": "Stevenson",
+        "pais": "United States",
+        "deadline": "Sep 8, 2019",
+        "fechaInicio": "Oct 28, 2019",
+        "topicos": "crowdsourcing,ai,metrics,evaluation,"
+    },
+    {
+        "acronimo": "EmeRTeS 2020",
+        "nombre": "International Workshop on Emergency Response Technologies and Services 2020",
+        "descripcion": "",
+        "ciudad": "Kolkata",
+        "pais": "India",
+        "deadline": "Sep 5, 2019",
+        "fechaInicio": "Jan 7, 2020",
+        "topicos": "crowd sourcing remote sensing,modeling and simulation tools,emergency communication infrastructures,peer to peer networks,"
+    },
+    {
+        "acronimo": "Book:DLforBMA 2020",
+        "nombre": "Deep Learning for Biomedical Applications",
+        "descripcion": "",
+        "ciudad": "",
+        "pais": "",
+        "deadline": "Apr 30, 2020",
+        "fechaInicio": "-",
+        "topicos": "biomedical,deep learning,medical,artificial intelligence,"
+    },
+    {
+        "acronimo": "ISMB 17",
+        "nombre": "17th International Symposium on Magnetic Bearings",
+        "descripcion": "",
+        "ciudad": "Rio de Janeiro",
+        "pais": "Brazil",
+        "deadline": "Jun 20, 2020",
+        "fechaInicio": "Aug 18, 2020",
+        "topicos": "applications,maglev,levitation,magnetic bearings,"
+    },
+    {
+        "acronimo": "2020 SPPAC",
+        "nombre": "2020 Society of Pediatric Psychology Annual Conference",
+        "descripcion": "",
+        "ciudad": "Dallas",
+        "pais": "United States",
+        "deadline": "Oct 1, 2019",
+        "fechaInicio": "Mar 19, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "LTS19",
+        "nombre": "NeurIPS 2019 Workshop on Learning Transferable Skills",
+        "descripcion": "",
+        "ciudad": "Vancouver",
+        "pais": "Canada",
+        "deadline": "Sep 9, 2019",
+        "fechaInicio": "Dec 13, 2019",
+        "topicos": "deep learning,reinforcement learning,machine learning,artificial intelligence,"
+    },
+    {
+        "acronimo": "FLINS/ISKE 2020",
+        "nombre": "The 14th International FLINS Conference on Robotics and Artificial Intelligence and the 15th International Conference on Intelligent Systems and Knowledge Engineering",
+        "descripcion": "",
+        "ciudad": "Cologne",
+        "pais": "Germany",
+        "deadline": "Jan 15, 2020",
+        "fechaInicio": "Aug 18, 2020",
+        "topicos": "big data and cloud computing,fuzzy logic theories and applications,artificial intelligence and robotics,computational intelligence and its application,"
+    },
+    {
+        "acronimo": "ICIEM - 2020",
+        "nombre": "International Conference on Intelligent Engineering and Management",
+        "descripcion": "",
+        "ciudad": "London",
+        "pais": "UK",
+        "deadline": "Dec 1, 2019",
+        "fechaInicio": "Apr 21, 2020",
+        "topicos": "automation and computation engineering,management,"
+    },
+    {
+        "acronimo": "NCCI 2019",
+        "nombre": "Third National Conference on Computational Intelligence",
+        "descripcion": "",
+        "ciudad": "Bangalore",
+        "pais": "India",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Dec 5, 2019",
+        "topicos": "big data analytics,cloud computing,internet of things,artificial intelligence,"
+    },
+    {
+        "acronimo": "CTE2020",
+        "nombre": "International Conference on Computational Thinking Education 2020",
+        "descripcion": "",
+        "ciudad": "Hong Kong",
+        "pais": "Hong Kong",
+        "deadline": "Dec 2, 2019",
+        "fechaInicio": "May 7, 2020",
+        "topicos": "computer science education,unplugged activities,computational thinking education,computational thinking,"
+    },
+    {
+        "acronimo": "SWAT4HCLS 2019",
+        "nombre": "Semantic Web Applications and Tools in Healthcare and Life Sciences 2019",
+        "descripcion": "",
+        "ciudad": "Edinburgh",
+        "pais": "UK",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Dec 9, 2019",
+        "topicos": "new applications of semantic technologies,current challenges and experiences,semantic technologies and applications,resources,"
+    },
+    {
+        "acronimo": "CITIS 2020",
+        "nombre": "International Conference on Science, Technology and Innovation for Society",
+        "descripcion": "",
+        "ciudad": "Guayaquil",
+        "pais": "Ecuador",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Feb 5, 2020",
+        "topicos": "information and communications,mobility,industry,environmental sustainability,"
+    },
+    {
+        "acronimo": "JIDIC 2019",
+        "nombre": "Jornadas Nacionales  de Investigación, Desarrollo e  Innovación en Ciberseguridad",
+        "descripcion": "",
+        "ciudad": "Viña Del Mar",
+        "pais": "Chile",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Oct 23, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "SEMANTIK 2019",
+        "nombre": "Seminar Nasional Pendidikan Matematika",
+        "descripcion": "",
+        "ciudad": "Yogyakarta",
+        "pais": "Indonesia",
+        "deadline": "Oct 31, 2019",
+        "fechaInicio": "Dec 7, 2019",
+        "topicos": "evaluation and assessment,ethnomatematics,teaching and learning,problem solving,"
+    },
+    {
+        "acronimo": "AgAmb2019",
+        "nombre": "Workshop on Agents and Ambient Intelligence",
+        "descripcion": "",
+        "ciudad": "Torino",
+        "pais": "Italy",
+        "deadline": "-",
+        "fechaInicio": "Oct 28, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "AMMMT-2019",
+        "nombre": "Advanced Materials, Manufacturing, Management and Thermal Sciences 2019",
+        "descripcion": "",
+        "ciudad": "Tumkur",
+        "pais": "India",
+        "deadline": "Sep 14, 2019",
+        "fechaInicio": "Nov 13, 2019",
+        "topicos": "thermal science,materials engineering,management,manufacturing,"
+    },
+    {
+        "acronimo": "IC-HEDS 2019",
+        "nombre": "International Conference on Humanities, Education and Social Sciences",
+        "descripcion": "",
+        "ciudad": "Jakarta",
+        "pais": "Indonesia",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Nov 20, 2019",
+        "topicos": "humanities and cultural studies,social sciences,education,"
+    },
+    {
+        "acronimo": "ICTM 2019",
+        "nombre": "International Conference on Islamic Civilization and Technology Management",
+        "descripcion": "",
+        "ciudad": "Kuala Terengganu",
+        "pais": "Malaysia",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Nov 23, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "HR Congress 2019",
+        "nombre": "International Conference and HR Congress on Impact of Emerging Technologies on Employment",
+        "descripcion": "",
+        "ciudad": "Kolkata",
+        "pais": "India",
+        "deadline": "Sep 10, 2019",
+        "fechaInicio": "Sep 21, 2019",
+        "topicos": "business and management,blockchain and cryptography,robotics and 3d printing,ai ml and dl,"
+    },
+    {
+        "acronimo": "COCEFKS-19",
+        "nombre": "Challenges and Opportunities of a Contemporary Economy in the Focus of Knowledge and Science",
+        "descripcion": "",
+        "ciudad": "Tirana",
+        "pais": "Albania",
+        "deadline": "Nov 1, 2019",
+        "fechaInicio": "Dec 13, 2019",
+        "topicos": "information technology in economy,finance and accounting,marketing and tourism,management and economics,"
+    },
+    {
+        "acronimo": "ANSHAR2019",
+        "nombre": "Annual Symposium on Hajj and Umrah Medicine",
+        "descripcion": "",
+        "ciudad": "Kota Batu",
+        "pais": "Indonesia",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Nov 15, 2019",
+        "topicos": "clinical science,biomedical science,hajj medicine,public health,"
+    },
+    {
+        "acronimo": "SemnasFAI2019",
+        "nombre": "Seminar Nasional FAI 2019",
+        "descripcion": "",
+        "ciudad": "Semarang",
+        "pais": "Indonesia",
+        "deadline": "Sep 13, 2019",
+        "fechaInicio": "Oct 9, 2019",
+        "topicos": "islamic economy,islamic civilization,islamic education,islamic law,"
+    },
+    {
+        "acronimo": "RECOMB 2020",
+        "nombre": "The 24th International Conference on Research in Computational Molecular Biology",
+        "descripcion": "",
+        "ciudad": "Padova",
+        "pais": "Italy",
+        "deadline": "Nov 1, 2019",
+        "fechaInicio": "May 8, 2020",
+        "topicos": "bioinformatics,computer science,biology,computational biology,"
+    },
+    {
+        "acronimo": "HVTT16",
+        "nombre": "16th International Symposium on Heavy Vehicle Transport Technology",
+        "descripcion": "",
+        "ciudad": "Qingdao",
+        "pais": "China",
+        "deadline": "Jun 30, 2020",
+        "fechaInicio": "Oct 18, 2020",
+        "topicos": "infrastructure and other transport modes,fleet management and operations,energy efficiency emissions and sustainability,heavy vehicle technology,"
+    },
+    {
+        "acronimo": "LFCS 2020",
+        "nombre": "Symposium on Logical Foundations of Computer Science 2020",
+        "descripcion": "",
+        "ciudad": "Deerfield Beach",
+        "pais": "United States",
+        "deadline": "Sep 10, 2019",
+        "fechaInicio": "Jan 4, 2020",
+        "topicos": "epistemic and temporal logics,constructive mathematics and type theory,logical foundations of database theory,logical foundations of programming,"
+    },
+    {
+        "acronimo": "WoC'19",
+        "nombre": "The 5th International Workshop on Container Technologies & Container Clouds",
+        "descripcion": "",
+        "ciudad": "Davis",
+        "pais": "United States",
+        "deadline": "Aug 30, 2019",
+        "fechaInicio": "Dec 9, 2019",
+        "topicos": "multi host container deployments,container technologies,"
+    },
+    {
+        "acronimo": "ACCM-2019",
+        "nombre": "The 4th Australasian Conference on Computational Mechanics",
+        "descripcion": "",
+        "ciudad": "Hobart",
+        "pais": "Australia",
+        "deadline": "Nov 8, 2019",
+        "fechaInicio": "Nov 27, 2019",
+        "topicos": "material engineering,mechanical engineering,civil engineering,computational mechanics,"
+    },
+    {
+        "acronimo": "&HPS8",
+        "nombre": "From Unification to Pluralism / Integrated History and Philosophy of Science, 8th Conference",
+        "descripcion": "",
+        "ciudad": "Blacksburg",
+        "pais": "United States",
+        "deadline": "Dec 10, 2019",
+        "fechaInicio": "Jul 15, 2020",
+        "topicos": "philosophy of science,philosophy,history,"
+    },
+    {
+        "acronimo": "CRE2019",
+        "nombre": "2019 Computational Reproducibility at Exascale workshop at SC19",
+        "descripcion": "",
+        "ciudad": "Denver",
+        "pais": "United States",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Nov 17, 2019",
+        "topicos": "computational reproducibility,high performance computing,"
+    },
+    {
+        "acronimo": "ICSDE2020",
+        "nombre": "International Conference on Sustainable Design and Environment 2020",
+        "descripcion": "",
+        "ciudad": "Hong Kong",
+        "pais": "China",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Feb 27, 2020",
+        "topicos": "green infrastructure,sustainable design,environmental conservation,sustainability,"
+    },
+    {
+        "acronimo": "IJDLT2019XRSI",
+        "nombre": "International Journal on Digital Learning Technology: Special Issue on XR(VR/AR/MR)-Enhanced Learning",
+        "descripcion": "",
+        "ciudad": "Taipei",
+        "pais": "Taiwan",
+        "deadline": "-",
+        "fechaInicio": "-",
+        "topicos": ""
+    },
+    {
+        "acronimo": "IMAN 2019",
+        "nombre": "7th International Conference on Islamic Applications in Computer Science and Technologies",
+        "descripcion": "",
+        "ciudad": "Kuala Lumpur",
+        "pais": "Malaysia",
+        "deadline": "Nov 1, 2019",
+        "fechaInicio": "Dec 27, 2019",
+        "topicos": "ict and islam,it ethics,muslim contributions in it,arabic natural language processing,"
+    },
+    {
+        "acronimo": "VIIA-19",
+        "nombre": "2019 IET's Vision and Imaging Technology Award",
+        "descripcion": "",
+        "ciudad": "London",
+        "pais": "UK",
+        "deadline": "Oct 1, 2019",
+        "fechaInicio": "-",
+        "topicos": ""
+    },
+    {
+        "acronimo": "AutoCarto2020",
+        "nombre": "AutoCarto2020",
+        "descripcion": "",
+        "ciudad": "Redlands",
+        "pais": "United States",
+        "deadline": "Jan 10, 2020",
+        "fechaInicio": "May 19, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "TLLM2020",
+        "nombre": "Second Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning: Monotonicity in Logic and Language",
+        "descripcion": "",
+        "ciudad": "Beijing",
+        "pais": "China",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Apr 10, 2020",
+        "topicos": "monotonicity,linguistics,logic,"
+    },
+    {
+        "acronimo": "SGKM 2020",
+        "nombre": "Schweizerische Gesellschaft für Kommunikations- und Medienwissenschaft 2020",
+        "descripcion": "",
+        "ciudad": "ZHAW",
+        "pais": "Switzerland",
+        "deadline": "Oct 14, 2019",
+        "fechaInicio": "Apr 23, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICSuSaT-2020",
+        "nombre": "3rd International Conference on Sustainable Sciences and Technology (ICSuSaT 2020)",
+        "descripcion": "",
+        "ciudad": "Istanbul",
+        "pais": "Turkey",
+        "deadline": "Mar 15, 2020",
+        "fechaInicio": "Jul 2, 2020",
+        "topicos": "sustainable applied sciences,sustainable engineering sciences,sustainable social sciences,sustainable natural science,"
+    },
+    {
+        "acronimo": "iCOnEC 2019",
+        "nombre": "11th International Conference Competitiveness and Stability in the Knowledge-Based Economy",
+        "descripcion": "",
+        "ciudad": "Craiova",
+        "pais": "Romania",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Oct 25, 2019",
+        "topicos": "informatics and statistics,finance and banking,management,economics,"
+    },
+    {
+        "acronimo": "12th ISIEM 2020",
+        "nombre": "12th International Seminar on Industrial Engineering and Management 2020",
+        "descripcion": "",
+        "ciudad": "Batu Malang",
+        "pais": "Indonesia",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Mar 17, 2020",
+        "topicos": "ergonomics,information system,production system,industrial system,"
+    },
+    {
+        "acronimo": "CAAC2020",
+        "nombre": "'Precarious Futures?: Geopolitics, Mobility and Materiality'. The 6th Chinese in Africa / Africans in China Research Network Conference",
+        "descripcion": "",
+        "ciudad": "Hong Kong",
+        "pais": "Hong Kong",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Jul 9, 2020",
+        "topicos": "africans in china,chinese in africa,sinoafrica,china africa relations,"
+    },
+    {
+        "acronimo": "BW12",
+        "nombre": "Fiction, Narrative and Art Beyond Literature",
+        "descripcion": "",
+        "ciudad": "Barcelona",
+        "pais": "Spain",
+        "deadline": "Dec 31, 2019",
+        "fechaInicio": "Apr 29, 2020",
+        "topicos": "literature,art,narrative,fiction,"
+    },
+    {
+        "acronimo": "BHCC 2019",
+        "nombre": "1st Symposium on Biases in Human Computation and Crowdsourcing",
+        "descripcion": "",
+        "ciudad": "Sheffield",
+        "pais": "UK",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Oct 21, 2019",
+        "topicos": "ai,bias,human computation,crowdsourcing,"
+    },
+    {
+        "acronimo": "SAEIIRC 2019",
+        "nombre": "Sustainable Agroecosystems and Emerging Innovations International Research Conference 2019",
+        "descripcion": "",
+        "ciudad": "Davao City",
+        "pais": "Philippines",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Dec 13, 2019",
+        "topicos": "industrial safety,water safety,food security,agriculture,"
+    },
+    {
+        "acronimo": "IWAIT 2020",
+        "nombre": "International Workshop on Advanced Image Technology 2020",
+        "descripcion": "",
+        "ciudad": "Yogyakarta",
+        "pais": "Indonesia",
+        "deadline": "Nov 10, 2019",
+        "fechaInicio": "Jan 5, 2020",
+        "topicos": "computer graphics cloud multimedia computing,multimedia applications computer vision animation,broadcasting networked multimedia multimedia systems,2d/3d image/video processing pattern recognition,"
+    },
+    {
+        "acronimo": "III ENSIII 2019",
+        "nombre": "III Encuentro Nacional de Semilleros de Ingeniería Industrial 2019",
+        "descripcion": "",
+        "ciudad": "Bogota D.C.",
+        "pais": "Colombia",
+        "deadline": "Oct 18, 2019",
+        "fechaInicio": "Nov 1, 2019",
+        "topicos": "innovación y sostenibilidad,gestión organizacional,mejoramiento de procesos,"
+    },
+    {
+        "acronimo": "IMSC2020",
+        "nombre": "International Mobile Storytelling Congress 2020",
+        "descripcion": "",
+        "ciudad": "Ningbo",
+        "pais": "China",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Jan 17, 2020",
+        "topicos": "mobile filmmaking,mobile journalism,mobile storytelling,mobile media and communication,"
+    },
+    {
+        "acronimo": "EITES 2019",
+        "nombre": "The 3rd International Research Conference on Emerging Information Technology and Engineering Solutions",
+        "descripcion": "",
+        "ciudad": "Pune",
+        "pais": "India",
+        "deadline": "Aug 31, 2019",
+        "fechaInicio": "Dec 19, 2019",
+        "topicos": "cognitive computing,artificial intelligence,big data analytics,industry 4.0,"
+    },
+    {
+        "acronimo": "AICTC - 2019",
+        "nombre": "International Conference on advances in Information Communication Technology & Computing",
+        "descripcion": "",
+        "ciudad": "Bikaner",
+        "pais": "India",
+        "deadline": "Aug 20, 2019",
+        "fechaInicio": "Nov 8, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICEEE-2019",
+        "nombre": "2nd International Conference on Engineering, Education and Entrepreneurship",
+        "descripcion": "",
+        "ciudad": "New Delhi",
+        "pais": "India",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Nov 10, 2019",
+        "topicos": "mechanical civil architecture biotechnology,machine learning block chain medicines,education and entrepreneurship elcetronics electrical,computer science and intelligent computing,"
+    },
+    {
+        "acronimo": "REDSET2019",
+        "nombre": "Recent Developments in Science, Engineering and Technology",
+        "descripcion": "",
+        "ciudad": "Gurugram",
+        "pais": "India",
+        "deadline": "Oct 13, 2019",
+        "fechaInicio": "Nov 15, 2019",
+        "topicos": "social and web analytics,next generation computing,data centric programming,big data analytics,"
+    },
+    {
+        "acronimo": "ICCICSTM2020",
+        "nombre": "International Conference on Contemporary Issues in Computing for Science, Technology & Management",
+        "descripcion": "",
+        "ciudad": "India",
+        "pais": "India",
+        "deadline": "Nov 17, 2019",
+        "fechaInicio": "Jan 11, 2020",
+        "topicos": "applied and management science,control automation & renewable energy,electronics & communication engineering,computer science & engineering,"
+    },
+    {
+        "acronimo": "NCRTEMS-2019",
+        "nombre": "National Conference on Recent Trends in Emerging Materials for Sciences",
+        "descripcion": "",
+        "ciudad": "Coimbatore",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Dec 19, 2019",
+        "topicos": "thin films,nanomaterials,"
+    },
+    {
+        "acronimo": "ICEIM-2020",
+        "nombre": "7th Biennial International Conference on Energy and Infrastructure Management",
+        "descripcion": "",
+        "ciudad": "Ahmedabad - Gandhinagar (Gujarat)",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Feb 27, 2020",
+        "topicos": "human resource management,project & operations management,finance & marketing,energy & infrastructure management,"
+    },
+    {
+        "acronimo": "MTMI-2019",
+        "nombre": "2019 MTMI INTERNATIONAL CONFERENCE on Emerging Issues in Business, Technology and Applied Sciences",
+        "descripcion": "",
+        "ciudad": "Ebene",
+        "pais": "Mauritius",
+        "deadline": "Oct 20, 2019",
+        "fechaInicio": "Dec 20, 2019",
+        "topicos": "applied sciences,business, technology, mathematical sciences,business analytics,operations research techniques,"
+    },
+    {
+        "acronimo": "CSA 2020",
+        "nombre": "The 4th Conference on Computing Systems and Applications",
+        "descripcion": "",
+        "ciudad": "Algiers",
+        "pais": "Algeria",
+        "deadline": "Dec 1, 2019",
+        "fechaInicio": "Apr 20, 2020",
+        "topicos": "computer vision and graphics,information systems and software engineering,computer networks and security,artificial intelligence and data science,"
+    },
+    {
+        "acronimo": "KEDL2019",
+        "nombre": "NDLI-UNESCO International Symposium on Knowledge Engineering for Digital Library Design",
+        "descripcion": "",
+        "ciudad": "New Delhi",
+        "pais": "India",
+        "deadline": "Sep 20, 2019",
+        "fechaInicio": "Dec 9, 2019",
+        "topicos": "semantic search and recommendation,linked data,artificial intelligence,digital library,"
+    },
+    {
+        "acronimo": "ICOBMIT-2019",
+        "nombre": "11th International Conference on Business Management and Information Technology",
+        "descripcion": "",
+        "ciudad": "Gwalior",
+        "pais": "India",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Dec 28, 2019",
+        "topicos": "innovation and competitiveness,business management,information technology,social sciences,"
+    },
+    {
+        "acronimo": "ICOGECAO 2019",
+        "nombre": "GENDER EQUITY: CHALLENGES AND OPPORTUNITIES 2019",
+        "descripcion": "",
+        "ciudad": "Surat",
+        "pais": "India",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Dec 19, 2019",
+        "topicos": "creative writing, liberal arts_mass communication,medicine_nutrition and armed forces,humanities, arts and social sciences,gender equity in technical education,"
+    },
+    {
+        "acronimo": "IAFSM2019",
+        "nombre": "2019 International Academic Conference on Frontiers in Social Sciences and Management Innovation",
+        "descripcion": "",
+        "ciudad": "Wuhan",
+        "pais": "China",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "Nov 16, 2019",
+        "topicos": "econimics,business and management,social sciences,"
+    },
+    {
+        "acronimo": "ICGRMSD2019",
+        "nombre": "7th International Conference on Geology Resources Management and Sustainable Development",
+        "descripcion": "",
+        "ciudad": "Beijing",
+        "pais": "China",
+        "deadline": "Dec 20, 2019",
+        "fechaInicio": "Dec 28, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "CONCUR20",
+        "nombre": "CONCUR 2020: 31st International Conference on Concurrency Theory",
+        "descripcion": "",
+        "ciudad": "Vienna",
+        "pais": "Austria",
+        "deadline": "Apr 22, 2020",
+        "fechaInicio": "Aug 31, 2020",
+        "topicos": "concurrent systems,logic,distributed algorithms,formal methods,"
+    },
+    {
+        "acronimo": "GamiFIN 2020",
+        "nombre": "4th International GamiFIN Conference",
+        "descripcion": "",
+        "ciudad": "Levi",
+        "pais": "Finland",
+        "deadline": "Oct 20, 2019",
+        "fechaInicio": "Apr 1, 2020",
+        "topicos": "media,vr,games,gamification,"
+    },
+    {
+        "acronimo": "ICCE2019",
+        "nombre": "The 6th International Conference on Civil Engineering",
+        "descripcion": "",
+        "ciudad": "Nanchang",
+        "pais": "China",
+        "deadline": "Dec 15, 2019",
+        "fechaInicio": "Dec 21, 2019",
+        "topicos": "civil engineering,geotechnical engineering,construction engineering,structural engineering,"
+    },
+    {
+        "acronimo": "INEC 2020",
+        "nombre": "The 15th International Naval Engineering Conference and Exhibition",
+        "descripcion": "",
+        "ciudad": "Delft",
+        "pais": "Netherlands",
+        "deadline": "May 18, 2020",
+        "fechaInicio": "Oct 6, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "iSCSS 2020",
+        "nombre": "International Ship Control Systems Symposium 2020",
+        "descripcion": "",
+        "ciudad": "Delft",
+        "pais": "Netherlands",
+        "deadline": "May 18, 2020",
+        "fechaInicio": "Oct 6, 2020",
+        "topicos": "digital ship control systems engineering,security ship connectivity crew human,energy hybrid power systems marine,autonomy marine systems ai data,"
+    },
+    {
+        "acronimo": "CuTLi 2020",
+        "nombre": "Current Trends in Linguistics",
+        "descripcion": "",
+        "ciudad": "Hamburg",
+        "pais": "Germany",
+        "deadline": "Dec 31, 2019",
+        "fechaInicio": "Jul 10, 2020",
+        "topicos": "l3 acquistion,multilingualism,language contact,world englishes,"
+    },
+    {
+        "acronimo": "IEEE ISTAS 2019",
+        "nombre": "2019 IEEE International Symposium on Technology and Society",
+        "descripcion": "",
+        "ciudad": "Boston",
+        "pais": "United States",
+        "deadline": "Aug 23, 2019",
+        "fechaInicio": "Nov 15, 2019",
+        "topicos": "ethical standards and artificial intelligence,social implications of technology,ethical implications of technology,sustainable development ict4d humanitarian technology,"
+    },
+    {
+        "acronimo": "nik2019",
+        "nombre": "Norwegian Informatics Conference",
+        "descripcion": "",
+        "ciudad": "Narvik",
+        "pais": "Norway",
+        "deadline": "-",
+        "fechaInicio": "Nov 25, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "CRT2019",
+        "nombre": "Bridging causal inference, reinforcement learning and transfer learning",
+        "descripcion": "",
+        "ciudad": "Cambridge",
+        "pais": "United States",
+        "deadline": "Sep 6, 2019",
+        "fechaInicio": "Sep 19, 2019",
+        "topicos": "transfer learning,reinforcement learning,causality,"
+    },
+    {
+        "acronimo": "Book:AIDDMD-2020",
+        "nombre": "Artificial Intelligence for Data-Driven Medical Diagnosis",
+        "descripcion": "",
+        "ciudad": "",
+        "pais": "",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "-",
+        "topicos": "biomedical,machine learning,medical,artificial intelligence,"
+    },
+    {
+        "acronimo": "AIS 2019",
+        "nombre": "14th International Symposium  on Applied Informatics and Related Areas",
+        "descripcion": "",
+        "ciudad": "Székesfehérvár",
+        "pais": "Hungary",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Nov 14, 2019",
+        "topicos": "robotics and artificial intelligence,geodesy and geoinformatics,computer systems,information society,"
+    },
+    {
+        "acronimo": "ICER2019",
+        "nombre": "The 12th International Conference on Educational Research (ICER2019)",
+        "descripcion": "",
+        "ciudad": "Khon Kaen",
+        "pais": "Thailand",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Sep 26, 2019",
+        "topicos": "languages and cultural contexts,educational measurement and psychology,learning and instruction and curriculum,teacher education and professional development,"
+    },
+    {
+        "acronimo": "PEFnet 2019",
+        "nombre": "23rd European Scientific Conference of Doctoral Students",
+        "descripcion": "",
+        "ciudad": "Brno",
+        "pais": "Czechia",
+        "deadline": "Oct 29, 2019",
+        "fechaInicio": "Nov 28, 2019",
+        "topicos": "management, marketing and trade,computer science and information systems,economics, economic policy and finance,quantitative methods,"
+    },
+    {
+        "acronimo": "CLT20",
+        "nombre": "The Conference on Language and Technology 2020 (CLT20)",
+        "descripcion": "",
+        "ciudad": "Lahore",
+        "pais": "Pakistan",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Feb 19, 2020",
+        "topicos": "script,speech,language,"
+    },
+    {
+        "acronimo": "ISIFL-3",
+        "nombre": "Third International School in Formal Linguistics",
+        "descripcion": "",
+        "ciudad": "Tbilisi",
+        "pais": "Georgia",
+        "deadline": "-",
+        "fechaInicio": "-",
+        "topicos": "sign languages,experimental approaches,formal syntax,language acquisition,"
+    },
+    {
+        "acronimo": "IEEE-RIVF 2020",
+        "nombre": "The 2020 IEEE-RIVF International Conference on Computing and Communications Technologies",
+        "descripcion": "",
+        "ciudad": "Ho Chi Minh",
+        "pais": "Viet Nam",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Apr 5, 2020",
+        "topicos": "data analytics,cloud computing,artificial intelligence,cyber security,"
+    },
+    {
+        "acronimo": "NWDCN2020",
+        "nombre": "International Workshop On Networking Women In Distributed Computing And Networks",
+        "descripcion": "",
+        "ciudad": "Kolkata",
+        "pais": "India",
+        "deadline": "Sep 5, 2019",
+        "fechaInicio": "Jan 4, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "cSTEM’19",
+        "nombre": "A Two Days National Conference on Stem (Science, Technology, Engineering and Mathematics)",
+        "descripcion": "",
+        "ciudad": "Vallabh Vidyanagar",
+        "pais": "India",
+        "deadline": "Aug 15, 2019",
+        "fechaInicio": "Sep 27, 2019",
+        "topicos": "mathematics,engineering,science,"
+    },
+    {
+        "acronimo": "ML4H",
+        "nombre": "NeurIPS 2019 Workshop on Machine Learning for Health",
+        "descripcion": "",
+        "ciudad": "Vancouver",
+        "pais": "Canada",
+        "deadline": "Sep 9, 2019",
+        "fechaInicio": "-",
+        "topicos": "health informatics,artificial intelligence,healthcare,machine learning,"
+    },
+    {
+        "acronimo": "SECSA 2020",
+        "nombre": "SECSA 2020 Conference: Southeastern, Central and South American Federation 2020 Conference",
+        "descripcion": "",
+        "ciudad": "Auburn",
+        "pais": "United States",
+        "deadline": "Jan 19, 2020",
+        "fechaInicio": "Feb 28, 2020",
+        "topicos": "hospitality and tourism,tourism education,hospitality education,"
+    },
+    {
+        "acronimo": "EVA London 2020",
+        "nombre": "Electronic Visualisation and the Arts",
+        "descripcion": "",
+        "ciudad": "London",
+        "pais": "UK",
+        "deadline": "Mar 17, 2020",
+        "fechaInicio": "Jul 6, 2020",
+        "topicos": "visual arts,visualisation,cultural heritage,computer science,"
+    },
+    {
+        "acronimo": "INCISCOS 2019",
+        "nombre": "4th International Conference on Information Systems and Computer Science",
+        "descripcion": "",
+        "ciudad": "Quito",
+        "pais": "Ecuador",
+        "deadline": "Sep 9, 2019",
+        "fechaInicio": "Nov 19, 2019",
+        "topicos": "algorithms,big data,information systems,computer science,"
+    },
+    {
+        "acronimo": "semnasbudaya2019",
+        "nombre": "Seminar Nasional dan Call for Papers V \"Membangun Pariwisata Madura Berbasis Budaya Lokal\" Universitas Trunojoyo Madura",
+        "descripcion": "",
+        "ciudad": "Bangkalan",
+        "pais": "Indonesia",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Oct 17, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "PSUCCESS ANC 2019",
+        "nombre": "23rd Annual National Conference and Paper Presentation",
+        "descripcion": "",
+        "ciudad": "Mandaluyong City",
+        "pais": "Philippines",
+        "deadline": "Aug 30, 2019",
+        "fechaInicio": "Oct 28, 2019",
+        "topicos": "educational system and its application,data science / data analytics,internet technology,the application of information technology,"
+    },
+    {
+        "acronimo": "2019 New Media Conference",
+        "nombre": "2019 Annual Conference of China New Media Communication Association",
+        "descripcion": "",
+        "ciudad": "Xiamen",
+        "pais": "China",
+        "deadline": "Oct 25, 2019",
+        "fechaInicio": "Nov 23, 2019",
+        "topicos": "media evolution and social implication,cyberspace governance,advertising and mobile internet,computational journalism and algorithm ethics,"
+    },
+    {
+        "acronimo": "18th A-CWAR",
+        "nombre": "18th Australian Cyber Warfare Conference (CWAR)",
+        "descripcion": "",
+        "ciudad": "Melbourne",
+        "pais": "Australia",
+        "deadline": "Sep 9, 2019",
+        "fechaInicio": "Oct 8, 2019",
+        "topicos": "human issues,information warfare,hacking,cyber warfare,"
+    },
+    {
+        "acronimo": "ILFIEL2019",
+        "nombre": "International Language Fest on Indigenous and Endangered Languages",
+        "descripcion": "",
+        "ciudad": "Shillong",
+        "pais": "India",
+        "deadline": "Sep 7, 2019",
+        "fechaInicio": "Oct 25, 2019",
+        "topicos": "standardization of indigenous language varieties,language endangerment,preservation of indigenous languages,linguistic description of indigenous languages,"
+    },
+    {
+        "acronimo": "ICAMEN2020",
+        "nombre": "International Conference  on Advances in Mechanical Engineering and Nanotechnology",
+        "descripcion": "",
+        "ciudad": "Jaipur",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Feb 28, 2020",
+        "topicos": "nanotechnology,thermal,design,manufacturing,"
+    },
+    {
+        "acronimo": "sec4dev2020",
+        "nombre": "sec4dev2020",
+        "descripcion": "",
+        "ciudad": "Vienna",
+        "pais": "Austria",
+        "deadline": "Jan 12, 2020",
+        "fechaInicio": "Feb 24, 2020",
+        "topicos": "secure software development,secure operation,secure coding,security testing,"
+    },
+    {
+        "acronimo": "2019 IEEE LA-CCI",
+        "nombre": "2019 IEEE Latin American Conference on Computational Intelligence",
+        "descripcion": "",
+        "ciudad": "Guayaquil",
+        "pais": "Ecuador",
+        "deadline": "-",
+        "fechaInicio": "Nov 11, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "PEEP'19 Meeting",
+        "nombre": "Primary English Education in Portugal '19 Meeting",
+        "descripcion": "",
+        "ciudad": "Faro",
+        "pais": "Portugal",
+        "deadline": "Nov 7, 2019",
+        "fechaInicio": "Nov 16, 2019",
+        "topicos": "ict in primary english education,oral interation,task based language teaching,action research,"
+    },
+    {
+        "acronimo": "SEAMEX 2019",
+        "nombre": "Southeast Asia Music Education Exchange 2019",
+        "descripcion": "",
+        "ciudad": "Yogyakarta",
+        "pais": "Indonesia",
+        "deadline": "Aug 25, 2019",
+        "fechaInicio": "Sep 6, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "CSIS'2019",
+        "nombre": "XI International Scientific and Theoretical Conference \"Communicative Strategies of the Information Society\"",
+        "descripcion": "",
+        "ciudad": "St. Petersburg",
+        "pais": "Russia",
+        "deadline": "Oct 22, 2019",
+        "fechaInicio": "Oct 25, 2019",
+        "topicos": "public administration,sociotechnical environments,systems analysis,information society,"
+    },
+    {
+        "acronimo": "ICEF 2",
+        "nombre": "International Conference on Economics and Finance-Ii",
+        "descripcion": "",
+        "ciudad": "Bangalore",
+        "pais": "India",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "Dec 13, 2019",
+        "topicos": "financial frictions,macrofinance,capital markets,corporate finance,"
+    },
+    {
+        "acronimo": "ASC 2020",
+        "nombre": "56th Annual Associated Schools of Construction International Conference",
+        "descripcion": "",
+        "ciudad": "Liverpool",
+        "pais": "UK",
+        "deadline": "Oct 31, 2019",
+        "fechaInicio": "Apr 15, 2020",
+        "topicos": "engineering,architecture,construction practice,construction education,"
+    },
+    {
+        "acronimo": "UAE-PPF-2020",
+        "nombre": "UAE Public Policy Forum 2020",
+        "descripcion": "",
+        "ciudad": "Dubai",
+        "pais": "UAE",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Feb 17, 2020",
+        "topicos": "digital transformation,government innovation,wellbeing,"
+    },
+    {
+        "acronimo": "ICCEMS 2020",
+        "nombre": "2020 5th International Conference on Civil Engineering and Materials Science",
+        "descripcion": "",
+        "ciudad": "Singapore",
+        "pais": "Singapore",
+        "deadline": "Jan 5, 2020",
+        "fechaInicio": "May 15, 2020",
+        "topicos": "bridge engineering,biomaterials,materials science,civil engineering,"
+    },
+    {
+        "acronimo": "ICAL 2020",
+        "nombre": "2020 International Conference on Automation and Logistics",
+        "descripcion": "",
+        "ciudad": "Beijing",
+        "pais": "China",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Mar 22, 2020",
+        "topicos": "manufacturing,big data,logistics,automation,"
+    },
+    {
+        "acronimo": "European Realities_2019",
+        "nombre": "4th International Scientific Conference – European Realities  /MOVEMENTS/",
+        "descripcion": "",
+        "ciudad": "Osijek",
+        "pais": "Croatia",
+        "deadline": "Dec 12, 2019",
+        "fechaInicio": "Dec 12, 2019",
+        "topicos": "economics,cultural and creative industries,media and media culture,culture and arts,"
+    },
+    {
+        "acronimo": "CITC 2019",
+        "nombre": "4th Caribbean International Tourism Conference",
+        "descripcion": "",
+        "ciudad": "Cave Hill",
+        "pais": "Barbados",
+        "deadline": "Aug 23, 2019",
+        "fechaInicio": "Dec 11, 2019",
+        "topicos": "event management,leisure,hospitality,tourism,"
+    },
+    {
+        "acronimo": "ADV1SEC",
+        "nombre": "Recent Advances in Security, Privacy and Trust for Internet-of-Things (IoT) and Cyber-Physical Systems (CPS)",
+        "descripcion": "",
+        "ciudad": "NY",
+        "pais": "United States",
+        "deadline": "Sep 20, 2019",
+        "fechaInicio": "-",
+        "topicos": "​intrusion detection,cyber crime,​cyber risk,security and privacy in iot,"
+    },
+    {
+        "acronimo": "IDIA2020",
+        "nombre": "11th International Development Informatics Association conference",
+        "descripcion": "",
+        "ciudad": "Macau SAR",
+        "pais": "China",
+        "deadline": "Sep 6, 2019",
+        "fechaInicio": "Mar 25, 2020",
+        "topicos": "ict for development,development informatics,ictd,ict4d,"
+    },
+    {
+        "acronimo": "ACIIDS 2020",
+        "nombre": "12th Asian Conference on Intelligent Information and Database Systems",
+        "descripcion": "",
+        "ciudad": "Phuket",
+        "pais": "Thailand",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Mar 23, 2020",
+        "topicos": "information system applications,document management and text processing,data mining and machine learning,artificial and computational intelligence,"
+    },
+    {
+        "acronimo": "UDS'20",
+        "nombre": "First International Conference on Urban Data Science",
+        "descripcion": "",
+        "ciudad": "Chennai",
+        "pais": "India",
+        "deadline": "Oct 1, 2019",
+        "fechaInicio": "Jan 20, 2020",
+        "topicos": "internet of things,distributed computing,data science,urban mobility,"
+    },
+    {
+        "acronimo": "TIEMS2019AC",
+        "nombre": "TIEMS 2019 Annual Conference",
+        "descripcion": "",
+        "ciudad": "Seoul",
+        "pais": "South Korea",
+        "deadline": "Sep 15, 2019",
+        "fechaInicio": "Nov 12, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICET 2019",
+        "nombre": "IEEE International Conference on Emerging Technologies",
+        "descripcion": "",
+        "ciudad": "Peshawar",
+        "pais": "Pakistan",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Dec 2, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "IWAIVN 2019",
+        "nombre": "The 1st IEEE International Workshop on Advances in Vehicular Networks",
+        "descripcion": "",
+        "ciudad": "Monterey",
+        "pais": "United States",
+        "deadline": "Sep 16, 2019",
+        "fechaInicio": "Nov 4, 2019",
+        "topicos": "autonomous vehicles,network protocols,vehicular networks,"
+    },
+    {
+        "acronimo": "CIDP2020",
+        "nombre": "Computational Intelligence in Digital Pedagogy",
+        "descripcion": "",
+        "ciudad": "Kolkata",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "-",
+        "topicos": "mooc pedagogical approach obe,machine learning in performance analysis,ai based teaching learning tools,active flipped blended learning,"
+    },
+    {
+        "acronimo": "ACS FUB 2019",
+        "nombre": "Academic Conference Simulation  at the Film University Babelsberg",
+        "descripcion": "",
+        "ciudad": "Potsdam",
+        "pais": "Germany",
+        "deadline": "Sep 12, 2019",
+        "fechaInicio": "Oct 11, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICRITCSA-2019",
+        "nombre": "International Conference on Recent Innovative Trends in Computer Science and Applications",
+        "descripcion": "",
+        "ciudad": "Bangalore – 560 054",
+        "pais": "India",
+        "deadline": "-",
+        "fechaInicio": "Oct 25, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "PCBE 2019",
+        "nombre": "5ο Πανελλήνιο Συνέδριο \"Η Βιολογία στην Εκπαίδευση\"",
+        "descripcion": "",
+        "ciudad": "Αθήνα",
+        "pais": "Greece",
+        "deadline": "Nov 5, 2019",
+        "fechaInicio": "Nov 29, 2019",
+        "topicos": "lab presentations/experiential seminars,research work,round table sessions/symposia,teaching practices,"
+    },
+    {
+        "acronimo": "EMC2",
+        "nombre": "The 5th Workshop on Energy Efficient Machine Learning and Cognitive Computing",
+        "descripcion": "",
+        "ciudad": "Vancouver",
+        "pais": "Canada",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "Dec 13, 2019",
+        "topicos": ""
+    },
+    {
+        "acronimo": "ICSIDEMPC 2020",
+        "nombre": "International Conference on Smart Innovations in Design, Environment, Management, Planning and Computing",
+        "descripcion": "",
+        "ciudad": "Aurangabad",
+        "pais": "India",
+        "deadline": "Nov 30, 2019",
+        "fechaInicio": "Jul 3, 2020",
+        "topicos": "smart mobility and infrastructure,green technology and applications,sustainable architecture,industry 4.0,"
+    },
+    {
+        "acronimo": "M3HPCST-2020",
+        "nombre": "3rd International Conference on Modern Mathematical Methods and High Performance Computing in Science & Technology",
+        "descripcion": "",
+        "ciudad": "Ghaziabad",
+        "pais": "India",
+        "deadline": "Nov 15, 2019",
+        "fechaInicio": "-",
+        "topicos": "optimization,mathematical models for computer science,metaheuristics in science and engineering,high performance computing (hpc),"
+    },
+    {
+        "acronimo": "IGRSM 2020",
+        "nombre": "10th IGRSM International Conference and Exhibition on Geospatial & Remote Sensing",
+        "descripcion": "",
+        "ciudad": "Kuala Lumpur",
+        "pais": "Malaysia",
+        "deadline": "Jan 16, 2020",
+        "fechaInicio": "Mar 17, 2020",
+        "topicos": "marine, terrestrial and space sciences,environmental sciences,geospatial technologies & applications,remote sensing & gis technologies,"
+    },
+    {
+        "acronimo": "wsdm2020-dc",
+        "nombre": "WSDM 2020 Doctoral Consortium",
+        "descripcion": "",
+        "ciudad": "Houston",
+        "pais": "United States",
+        "deadline": "Oct 18, 2019",
+        "fechaInicio": "Feb 3, 2020",
+        "topicos": "machine learning,information retrieval,data mining,web search,"
+    },
+    {
+        "acronimo": "ACTGrant2019",
+        "nombre": "Accelerating Creative Teaching (ACT) Grant 2019-2020",
+        "descripcion": "",
+        "ciudad": "Harrisonburg",
+        "pais": "United States",
+        "deadline": "Sep 20, 2019",
+        "fechaInicio": "Oct 11, 2019",
+        "topicos": "use of technology,engaging student learning,innovations in teaching,"
+    },
+    {
+        "acronimo": "CCDP2019",
+        "nombre": "Chinese Conference on Digital Preservation 2019",
+        "descripcion": "",
+        "ciudad": "Beijing",
+        "pais": "China",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Oct 28, 2019",
+        "topicos": "digital curation,digital preservation,"
+    },
+    {
+        "acronimo": "ICACII 2019",
+        "nombre": "International Conference on Advances in Computational Intelligence and Informatics",
+        "descripcion": "",
+        "ciudad": "Hyderabad",
+        "pais": "India",
+        "deadline": "Sep 2, 2019",
+        "fechaInicio": "Dec 20, 2019",
+        "topicos": "computational intelligence,data science and analytics,emerging technologies,cloud computing,"
+    },
+    {
+        "acronimo": "RCOSCM 19-20",
+        "nombre": "Research Conference on Operations and Supply Chain Management",
+        "descripcion": "",
+        "ciudad": "Nashik",
+        "pais": "India",
+        "deadline": "Oct 15, 2019",
+        "fechaInicio": "Nov 10, 2019",
+        "topicos": "finance and economics,marketing,human resource,information technology,"
+    },
+    {
+        "acronimo": "MMCP20",
+        "nombre": "Multi-scale, Multi-physics and Coupled Problems on Highly Parallel Systems",
+        "descripcion": "",
+        "ciudad": "Fukuoka",
+        "pais": "Japan",
+        "deadline": "Sep 14, 2019",
+        "fechaInicio": "Jan 14, 2020",
+        "topicos": "coupled problems,multi physics,hpc,multi scale,"
+    },
+    {
+        "acronimo": "Ural-PDC 2019",
+        "nombre": "5th Ural Workshop on Parallel, Distributed, and Cloud Computing for Young Scientists",
+        "descripcion": "",
+        "ciudad": "Yekaterinburg",
+        "pais": "Russia",
+        "deadline": "-",
+        "fechaInicio": "Oct 25, 2019",
+        "topicos": "cloud computing,high performance computing,"
+    },
+    {
+        "acronimo": "ComNet-Iot-2020",
+        "nombre": "The 9th International Workshop on Computing and Networking for IoT and Beyond",
+        "descripcion": "",
+        "ciudad": "Kolkata",
+        "pais": "India",
+        "deadline": "Sep 10, 2019",
+        "fechaInicio": "Jan 4, 2020",
+        "topicos": ""
+    },
+    {
+        "acronimo": "Convergences 2019",
+        "nombre": "Convergences International Seminar 2019 - Post-digital: political perspectives in relations between art and technology",
+        "descripcion": "",
+        "ciudad": "Porto Alegre",
+        "pais": "Brazil",
+        "deadline": "Aug 31, 2019",
+        "fechaInicio": "Oct 9, 2019",
+        "topicos": "critical appropriation of technological devices,new media art,postdigital,art and technology,"
+    },
+    {
+        "acronimo": "ICDE 2019",
+        "nombre": "2nd International Conference on Digital Economy 2019",
+        "descripcion": "",
+        "ciudad": "Raipur",
+        "pais": "India",
+        "deadline": "Nov 1, 2019",
+        "fechaInicio": "Dec 6, 2019",
+        "topicos": "impacts of digital economy,emerging applications in digital economy,technologies enabling digital economy,"
+    },
+    {
+        "acronimo": "RSGGSS 2019",
+        "nombre": "RSG Germany Student Symposium 2019",
+        "descripcion": "",
+        "ciudad": "Heidelberg",
+        "pais": "Germany",
+        "deadline": "Sep 1, 2019",
+        "fechaInicio": "Sep 16, 2019",
+        "topicos": "data analysis,systems biology,computational biology,bioinformatics,"
+    },
+    {
+        "acronimo": "APC2019",
+        "nombre": "Animals and the (Playable) City: A Critical Perspective - An ACI 2019 Workshop",
+        "descripcion": "",
+        "ciudad": "Haifa",
+        "pais": "Israel",
+        "deadline": "Sep 27, 2019",
+        "fechaInicio": "-",
+        "topicos": "human and animal computer interaction,animals,urban design,cities,"
+    },
+    {
+        "acronimo": "RCIS2020",
+        "nombre": "The Fourteenth International Conference on Research Challenges in Information Science",
+        "descripcion": "",
+        "ciudad": "Limassol",
+        "pais": "Cyprus",
+        "deadline": "Jan 27, 2020",
+        "fechaInicio": "May 20, 2020",
+        "topicos": "business process management,"
+    },
+    {
+        "acronimo": "CHEM-CONFLUX20",
+        "nombre": "International Conference on  Energy and Environmental Technologies for Sustainable Development",
+        "descripcion": "",
+        "ciudad": "Prayagraj",
+        "pais": "India",
+        "deadline": "Oct 30, 2019",
+        "fechaInicio": "Feb 14, 2020",
+        "topicos": "energy intergration,biomass utlization,pollution control,renewable fuel,"
+    },
+    {
+        "acronimo": "FLAME2020",
+        "nombre": "2nd International Conference on Future Learning Aspects of Mechanical Engineering",
+        "descripcion": "",
+        "ciudad": "Noida",
+        "pais": "India",
+        "deadline": "Sep 30, 2019",
+        "fechaInicio": "Aug 5, 2020",
+        "topicos": "advances in interdisciplinary engineering,industrial and production engineering,advances in engineering design,fluid and thermal engineering,"
+    }
+]

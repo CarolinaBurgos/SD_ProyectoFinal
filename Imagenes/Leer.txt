@@ -1,0 +1,19 @@
+Primera Grafica=> Tabla que contiene todos los eventos obtenidos mediante scrapping con Python y procesados con R.
+
+Segunda Grafica=> Grafico Pastel que contiene la cantidad de eventos que habran en latinoamerica.
+
+Tercera Grafica=> Timeline que contiene los eventos ordenados por año empezando en el año actual.
+
+Repositorio:
+git clone https://langelmoya10@bitbucket.org/caralbur/lenguajesparcial2.git
+
+
+Back (django) : scrapi
+
+Front (react) : my-app
+
+
+		Integrantes:
+Carolina Burgos
+Angel Moya
+Danny Rios
