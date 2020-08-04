@@ -1,12 +1,8 @@
 import React from 'react';
-import { Menu, Icon, Button } from 'antd';
-import MetodosAxios from "./MetodosAxios";
-import Chart from 'react-google-charts';
-
-
 import { Pie } from "react-chartjs-2";
 import { MDBContainer } from "mdbreact";
-const { SubMenu } = Menu;
+
+
 //Geocode.setApiKey("AIzaSyCS7-g8rkd8K8tj3nxbV8GMI5lI2Y77W      4c");
 
 

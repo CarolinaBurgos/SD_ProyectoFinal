@@ -1,5 +1,5 @@
 import React from 'react';
-import { Steps, Button, message, Tabs, Menu, Icon } from 'antd';
+import { Menu, Icon } from 'antd';
 import PrimeraGrafica from './componentes/PrimeraGrafica'
 import SegundaGrafica from './componentes/SegundaGrafica'
 import TerceraGrafica from './componentes/TerceraGrafica'
@@ -10,17 +10,14 @@ import SeptimaGrafica from './componentes/SeptimaGrafica';
 
 import MetodosAxios from "./componentes/MetodosAxios";
 
-const { TabPane } = Tabs;
 const { SubMenu } = Menu;
 
-
-function callback(key) {
+/*function callback(key) {
   console.log(key);
 
   this.llamarDataCSV();
 
-}
-
+}*/
 
 class App extends React.Component {
   state = {

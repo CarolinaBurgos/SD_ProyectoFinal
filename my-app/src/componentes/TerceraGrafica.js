@@ -1,9 +1,5 @@
 import React from 'react';
-import { Menu, Icon, Timeline } from 'antd';
-import moment from 'moment';
 import Chart from 'react-google-charts';
-
-const { SubMenu } = Menu;
 
 class CuartaGrafica extends React.Component {
     state = {

@@ -1,11 +1,6 @@
 import React from 'react';
-import { Menu, Calendar, Badge } from 'antd';
+import { Calendar, Badge } from 'antd';
 import moment from 'moment';
-import Chart from 'react-google-charts';
-
-const { SubMenu } = Menu;
-
-
 
 class SeptimaGrafica extends React.Component {
     state = {

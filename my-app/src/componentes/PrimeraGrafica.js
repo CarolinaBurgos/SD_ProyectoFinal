@@ -1,7 +1,6 @@
 import React from 'react';
-import { Menu, Icon, Table, Select,Tag } from 'antd';
+import { Table, Select,Tag } from 'antd';
 
-const { SubMenu } = Menu;
 const { Option } = Select;
 
 const columns = [
@@ -54,7 +53,7 @@ class PrimeraGrafica extends React.Component {
     if(value==="2019"){
      //api de 2019
      this.llenarTabla(this.state.arregloData2019)
-    }else if(value=="2020"){
+    }else if(value==="2020"){
       //api 2020
       this.llenarTabla(this.state.arregloData2020)
     }else{

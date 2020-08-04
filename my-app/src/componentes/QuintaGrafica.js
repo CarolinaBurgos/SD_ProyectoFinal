@@ -1,9 +1,5 @@
 import React from 'react';
-import { Menu, Icon, Timeline } from 'antd';
-import moment from 'moment';
 import Chart from 'react-google-charts';
-
-const { SubMenu } = Menu;
 
 class QuintaGrafica extends React.Component {
     state = {
@@ -15,9 +11,6 @@ class QuintaGrafica extends React.Component {
         this.ObtenerCantidadPapersXPais();
 
     }
-
-
-
 
     /* let temp = [];
         temp.push(['Eventos'])

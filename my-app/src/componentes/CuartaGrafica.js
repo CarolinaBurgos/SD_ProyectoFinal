@@ -1,8 +1,6 @@
 import React from 'react';
-import { Menu, Icon,Timeline } from 'antd';
+import { Timeline } from 'antd';
 import moment from 'moment';
-
-const { SubMenu } = Menu;
 
 class TerceraGrafica extends React.Component {
     state = {
@@ -15,7 +13,6 @@ class TerceraGrafica extends React.Component {
 
     componentDidMount=()=>{
         console.log(this.state.papersXFecha)
-        let temp=[];
         let tempA=[];
        for (let index = 0; index < this.state.arregloData2019.length; index++) {
             /*let eventoTemp={

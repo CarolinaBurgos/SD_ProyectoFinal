@@ -1,7 +1,0 @@
-1) Tener instalado node
-
-2)desde la consola ejecuten: npm install
-
-3) desde la consola ejecuten npm start
-
-4) se puede llegar a la ruta http://127.0.0.1:1337/data/dataCSV
