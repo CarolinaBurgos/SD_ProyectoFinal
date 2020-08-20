@@ -11,18 +11,25 @@ docker-compose up -d
 
 docker container ls
 
+
 **Ejecucion**
 
 docker-compose run web python manage.py makemigrations
+
 docker-compose run web python manage.py migrate
+
 docker-compose run web python manage.py runserver
 
+
 Abrir en el navegador: localhost:8000
+
 
 **Eliminar containers e images**
 
 docker stop <my-docker-machine>
+
 docker system prune
+
 
 **Enlace**
 
