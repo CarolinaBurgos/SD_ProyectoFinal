@@ -2,9 +2,11 @@
 python manage.py runserver
 
 ### Docker
+
 **Instalación del Docker**
 
 docker-compose build
+
 docker-compose up -d
 
 **Listar containers**
@@ -19,6 +21,7 @@ docker-compose run web python manage.py makemigrations
 docker-compose run web python manage.py migrate
 
 docker-compose run web python manage.py runserver
+
 
 
 Abrir en el navegador: localhost:8000
