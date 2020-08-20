@@ -29,7 +29,7 @@ Abrir en el navegador: localhost:8000
 
 **Eliminar containers e images**
 
-docker stop '<my-docker-machine>'
+docker stop "my-docker-machine"
 
 docker system prune
 
