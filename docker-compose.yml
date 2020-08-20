@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  db:
+    image: mysql:5.7
+    ports:
+      - '8002:3306'
+    environment:
+       MYSQL_DATABASE: 'datosdb'
+       MYSQL_USER: ''
+       MYSQL_PASSWORD: ''
+       MYSQL_ROOT_PASSWORD: ''
+  front:
+    build: ./my-app
+    command: npm start serve
+    volumes:
+      - ./my-app:/my-app
+    ports:
+      - "3000:3000"
+  web:
+    build: ./scrapi
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./scrapi:/scrapi
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
