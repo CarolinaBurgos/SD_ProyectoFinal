@@ -10,6 +10,7 @@ urlpatterns = [
     path('papers/mapa',mapa_list),
     path('papers/sudamerica',sudamerica_list),
     path('papers/fecha',fecha_list),
+    path('send_message',send),
 ]
 
 urlpatterns = format_suffix_patterns(urlpatterns)
