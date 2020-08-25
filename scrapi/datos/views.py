@@ -8,20 +8,6 @@ import os
 import boto3
 
 @api_view(['GET'])
-def send(request, format=None):
-    client = boto3.client(
-        "sns",
-        aws_access_key_id="AKIAUS7WW7QB7C4COHMO",
-        aws_secret_access_key="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",
-        region_name="us-east-2"
-    )
-
-    client.publish(Message="Backend!", TopicArn="arn:aws:sns:us-east-2:315660631043:notifications")
-
-    return Response({'message': 'Backend'}, status=status.HTTP_200_OK)
-
-
-@api_view(['GET'])
 def papers_list(request, format=None):
     if request.method == 'GET':
         paper = Papers.objects.all()
