@@ -27,8 +27,10 @@ export default class MetodosAxios {
     }
 
 
+  static SendMessage = ()=> {
+    return MetodosAxios.instanceAxios.get('/send_message');
+  }
 
-  //  http://localhost:8000/papers/
   static ObtenerDataCSV = ()=> {
     return MetodosAxios.instanceAxios.get('/papers/');
   }

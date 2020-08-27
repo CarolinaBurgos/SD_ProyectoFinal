@@ -105,15 +105,23 @@ class App extends React.Component {
   }
 
 
-  //http://localhost:8000/papers/mapa
   llenarPaperMapa() {
     MetodosAxios.ObtenerPapersMapa()
       .then((res) => {
         this.setState({
           papersMapa: res.data,
         }, () => {
-          console.log("Papers Mapa", this.state.papersMapa)
+          console.log("Papers Mapa")
         })
+      }).catch((error) => {
+        console.log(error);
+      })
+  }
+
+  enviarMensaje() {
+    MetodosAxios.SendMessage()
+      .then((res) => {
+        console.log("Mensaje enviado");
       }).catch((error) => {
         console.log(error);
       })
@@ -121,8 +129,8 @@ class App extends React.Component {
 
   //Metodo que se ejecuta automaticamente antes de que se renderize la pagina
   componentWillMount() {
+    this.enviarMensaje();
     this.llamarDataCSV();
-    //this.llenarPapersXFecha();
     this.llenarPaperSudamerica();
     this.llenarPaperMapa();
     this.llamarData2019();
@@ -130,6 +138,7 @@ class App extends React.Component {
   }
 
   handleClick = e => {
+    this.enviarMensaje();
     this.setState({
       current: e.key,
     });

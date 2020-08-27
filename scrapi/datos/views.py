@@ -8,6 +8,13 @@ import os
 import boto3
 
 @api_view(['GET'])
+def send(request, format=None):
+    
+
+    return Response({'message': 'Backend'}, status=status.HTTP_200_OK)
+
+
+@api_view(['GET'])
 def papers_list(request, format=None):
     if request.method == 'GET':
         paper = Papers.objects.all()
