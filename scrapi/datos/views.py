@@ -10,7 +10,6 @@ import boto3
 @api_view(['GET'])
 def send(request, format=None):
     
-
     return Response({'message': 'Backend'}, status=status.HTTP_200_OK)
 
 
